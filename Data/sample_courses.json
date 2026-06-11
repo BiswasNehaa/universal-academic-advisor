@@ -1,0 +1,2001 @@
+[
+  {
+    "course_code": "BMATS201",
+    "name": "Mathematics-II for Computer Science and Engineering stream",
+    "description": "Familiarize the importance of Integral calculus and Vector calculus, learn vector spaces and linear transformations, and develop the knowledge of numerical methods to solve transcendental and differential equations.",
+    "prerequisites": [],
+    "credits": 4,
+    "tags": [
+      "mathematics", 
+      "calculus", 
+      "vector calculus", 
+      "linear algebra", 
+      "numerical methods"
+    ],
+    "topics": [
+      "Module-1: Integral Calculus (Multiple Integrals, Beta and Gamma functions)",
+      "Module-2: Vector Calculus (Scalar and vector fields, Gradient, directional derivative, curl and divergence, Curvilinear coordinates)",
+      "Module-3: Vector Space and Linear Transformations (subspace, linear span, Basis and dimension, Algebra of transformations, inner product spaces)",
+      "Module-4: Numerical Methods - 1 (Solution of algebraic and transcendental equations, Finite differences, Interpolation, Numerical integration)",
+      "Module-5: Numerical Methods - 2 (Numerical Solution of Ordinary Differential Equations - Taylor’s series, Modified Euler’s, Runge-Kutta, Milne’s)"
+    ],
+    "course_outcomes": [
+      "CO1: Apply the concept of change of order of integration and variables to evaluate multiple integrals and their usage in computing area and volume.",
+      "CO2: Understand the applications of vector calculus refer to solenoidal, and irrotational vectors. Orthogonal curvilinear coordinates.",
+      "CO3: Demonstrate the idea of Linear dependence and independence of sets in the vector space, and linear transformation",
+      "CO4: Apply the knowledge of numerical methods in analysing the discrete data and solving the physical and engineering problems.",
+      "CO5: Get familiarize with modern mathematical tools namely MATHEMATICA/ MATLAB /PYTHON/ SCILAB"
+    ]
+  },
+  {
+    "course_code": "BMATS101",
+    "name": "Mathematics-I for Computer Science and Engineering stream",
+    "description": "Familiarize the importance of calculus associated with one variable and multivariable for computer science and engineering. Analyze Computer science and engineering problems by applying Ordinary Differential Equations. Apply the knowledge of modular arithmetic to computer algorithms. Develop the knowledge of Linear Algebra to solve the system of equations.",
+    "prerequisites": [],
+    "credits": 4,
+    "tags": [
+      "mathematics",
+      "calculus",
+      "multivariable calculus",
+      "ordinary differential equations",
+      "modular arithmetic",
+      "linear algebra"
+    ],
+    "topics": [
+      "Module-1: Calculus (Polar coordinates, Polar curves, angle between radius vector and tangent, Pedal equations, Curvature and Radius of curvature - Cartesian, Parametric, Polar and Pedal forms)",
+      "Module-2: Series Expansion and Multivariable Calculus (Taylor’s and Maclaurin’s series expansion, L’Hospital’s rule, Partial differentiation, total derivative, Jacobian, Maxima and minima for a function of two variables)",
+      "Module-3: Ordinary Differential Equations (ODEs) of First Order (Linear and Bernoulli’s differential equations, Exact and reducible to exact differential equations, Orthogonal trajectories, Non-linear differential equations including Clairaut’s equations)",
+      "Module-4: Modular Arithmetic (Congruences, Linear Congruences, The Remainder theorem, Solving Polynomials, Linear Diophantine Equation, System of Linear Congruences, Euler’s, Wilson and Fermat’s little theorem, RSA algorithm)",
+      "Module-5: Linear Algebra (Elementary row transformation, Rank of a matrix, Gauss-elimination, Gauss-Jordan, Gauss-Seidel method, Eigenvalues and Eigenvectors, Rayleigh’s power method)"
+    ],
+    "course_outcomes": [
+      "CO1: apply the knowledge of calculus to solve problems related to polar curves and learn the notion of partial differentiation to compute rate of change of multivariate functions",
+      "CO2: analyze the solution of linear and nonlinear ordinary differential equations",
+      "CO3: get acquainted and to apply modular arithmetic to computer algorithms",
+      "CO4: make use of matrix theory for solving the system of linear equations and compute eigenvalues and eigenvectors",
+      "CO5: familiarize with modern mathematical tools namely MATHEMATICA/MATLAB/ PYTHON/ SCILAB"
+    ]
+  },
+  
+  {
+    "course_code": "BPHYS102/202",
+    "name": "Applied Physics for CSE Stream",
+    "description": "To study the essentials of photonics, principles of quantum mechanics, electrical properties of materials, and the essentials of physics for computational aspects like design and data analysis in computer science applications.",
+    "prerequisites": [],
+    "credits": 4,
+    "tags": [
+      "physics",
+      "applied physics",
+      "photonics",
+      "quantum mechanics",
+      "quantum computing",
+      "electrical properties",
+      "superconductivity",
+      "animation physics"
+    ],
+    "topics": [
+      "Module-1: Laser and Optical Fibers (LASER properties, Einstein’s A and B Coefficients, Semiconductor Diode Laser, Optical Fiber Principle, Acceptance angle, Numerical Aperture, Attenuation)",
+      "Module-2: Quantum Mechanics (de Broglie Hypothesis, Heisenberg’s Uncertainty Principle, Time independent Schrödinger wave equation, Particle inside one dimensional infinite potential well)",
+      "Module-3: Quantum Computing (Introduction to Quantum Computing, Moore’s law, Concept of qubit, Bloch sphere, Dirac representation, Pauli Matrices, Single and Multiple Qubit Gates)",
+      "Module-4: Electrical Properties of Materials and Applications (Electrical Conductivity in metals, Fermi Energy, Superconductivity, BCS theory, Josephson Junctions, SQUIDs, Applications in Quantum Computing)",
+      "Module-5: Applications of Physics in computing (Physics of Animation: Frames, Weight and Strength, Constant Force and Acceleration, Motion Graphs; Statistical Physics: Poisson distribution, Normal Distributions, Monte Carlo Method)"
+    ],
+    "course_outcomes": [
+      "CO1: Describe the principles of LASERS and Optical fibers and their relevant applications.",
+      "CO2: Discuss the basic principles of the Quantum Mechanics and its application in Quantum Computing.",
+      "CO3: Summarize the essential properties of superconductors and its applications in qubits.",
+      "CO4: Illustrate the application of physics in design and data analysis.",
+      "CO5: Practice working in groups to conduct experiments in physics and perform precise and honest measurements."
+    ]
+  },
+  
+  {
+    "course_code": "BCHES102/202",
+    "name": "Applied Chemistry for Computer Science & Engineering stream",
+    "description": "Enable students to acquire knowledge on principles of chemistry for engineering applications, develop an intuitive understanding of chemistry by emphasizing related engineering branches, and provide a solid foundation in analytical reasoning required to solve societal problems.",
+    "prerequisites": [],
+    "credits": 4,
+    "tags": [
+      "chemistry",
+      "applied chemistry",
+      "sensors",
+      "energy systems",
+      "memory devices",
+      "display systems",
+      "corrosion",
+      "polymers",
+      "e-waste management"
+    ],
+    "topics": [
+      "MODULE 1: Sensors and Energy Systems (Conductometric, Electrochemical, Thermometric, and Optical sensors, Lithium ion and Sodium ion batteries, Quantum Dot Sensitized Solar Cells)",
+      "MODULE 2: Materials for Memory and Display Systems (Electronic memory devices, Liquid crystals (LC's), OLED's, QLED's, Light emitting electrochemical cells)",
+      "MODULE 3: Corrosion and Electrode System (Electrochemical theory of corrosion, Corrosion control methods, Ion selective electrode, Reference electrode, Concentration cell, Conductometry, Potentiometry)",
+      "MODULE 4: Polymers and Green Fuels (Molecular weight, Kevlar, Conducting polymers (polyacetylene), Solar photovoltaic cell, Green hydrogen by electrolysis of water)",
+      "MODULE 5: E-Waste Management (Sources, composition, toxic materials, Recycling and Recovery approaches, Extraction of gold, Role of stakeholders)"
+    ],
+    "course_outcomes": [
+      "CO1: Identify the terms and processes involved in scientific and engineering applications",
+      "CO2: Explain the phenomena of chemistry to describe the methods of engineering processes",
+      "CO3: Solve the problems in chemistry that are pertinent in engineering applications",
+      "CO4: Apply the basic concepts of chemistry to explain the chemical properties and processes",
+      "CO5: Analyze properties and processes associated with chemical substances in multidisciplinary situations"
+    ]
+  },
+  
+  {
+    "course_code": "BPOPS102/203",
+    "name": "Introduction to C Programming",
+    "description": "Introduction to computer fundamentals and C programming, covering operators, control structures, modular programming with functions, user-defined data structures, pointers, and file handling.",
+    "prerequisites": [],
+    "credits": 0,
+    "tags": [
+      "programming",
+      "c language",
+      "computer fundamentals",
+      "data structures",
+      "algorithms"
+    ],
+    "topics": [
+      "Module-1: Introduction to C (Introduction to computers, structure of C program, compilers, variables, constants, Input/output statements)",
+      "Module-2: Operators in C, Decision control and Looping statements (Type conversion, conditional branching, iterative statements, nested loops, break, continue, goto)",
+      "Module-3: Functions and Arrays (Function definition/declaration/call, scope of variables, recursion, 1D and 2D arrays, multidimensional arrays)",
+      "Module-4: Strings and Pointers (String taxonomy and operations, Introduction to pointers, declaring pointer variables, Passing arguments to functions using pointers)",
+      "Module-5: Structure, Union, and Enumerated Data Type (Structures and functions, Unions inside structures, Enumerated data type, reading and writing data files, Detecting end of file)"
+    ],
+    "course_outcomes": [
+      "CO 1: Elucidate the basic architecture and functionalities of a computer and also recognize the hardware parts.",
+      "CO 2: Apply programming constructs of C language to solve the real world problem",
+      "CO 3: Explore user-defined data structures like arrays in implementing solutions to problems like searching and sorting",
+      "CO 4: Explore user-defined data structures like structures, unions and pointers in implementing solutions",
+      "CO 5: Design and Develop Solutions to problems using modular programming constructs using functions"
+    ]
+  },
+  
+  {
+    "course_code": "BCEDK103/203",
+    "name": "Computer Aided Engineering Drawing",
+    "description": "Introduction to Computer-Aided Drafting (CAD) and engineering graphics, covering orthographic projections of points, lines, planes, and solids, isometric projections, development of lateral surfaces, and multidisciplinary drawing applications.",
+    "prerequisites": [],
+    "credits": 0,
+    "tags": [
+      "engineering drawing",
+      "CAD",
+      "orthographic projection",
+      "isometric projection",
+      "drafting",
+      "multidisciplinary applications"
+    ],
+    "topics": [
+      "Module-1: Introduction and Orthographic Projections of Points, Lines and Planes (BIS Conventions, CAD software commands, 1st/3rd quadrant points, 1st quadrant lines and planes)",
+      "Module-2: Orthographic Projection of Solids (Prisms, Pyramids, Cylinders, Cones, Cubes & Tetrahedron resting on HP)",
+      "Module-3: Isometric Projections (Isometric scale, projection of hexahedron, right regular solids, combination of solids, Conversion of isometric to orthographic views)",
+      "Module-4: Development of Lateral Surfaces of Solids (Right regular prisms, cylinders, pyramids, cones, frustums, truncations, funnels, trays, transition pieces)",
+      "Module-5: Multidisciplinary Applications & Practice (Free hand sketching, Simple Mechanisms, Electric Wiring/lighting diagrams, Basic Building Drawing, Electronics Engineering Drawings, Graphs & Charts)"
+    ],
+    "course_outcomes": [
+      "CO1: Utilize CAD software tools to draw basic shapes and construct orthographic projections of points, lines, and planes.",
+      "CO2: Construct orthographic projections of various regular solids resting on the horizontal plane.",
+      "CO3: Draw isometric projections of simple and combined solids and convert isometric drawings into orthographic views.",
+      "CO4: Develop the lateral surfaces of regular solids, frustums, truncations, and apply them to sheet metal applications.",
+      "CO5: Apply drafting skills to multidisciplinary engineering domains including wiring diagrams, building drawings, and simple mechanisms."
+    ]
+  },
+  
+  {
+    "course_code": "BESCK104D-204D",
+    "name": "Introduction to Mechanical Engineering",
+    "description": "Introduction to the role of mechanical engineering, covering energy sources, machine tool operations, IC engines, future mobility, engineering materials, metal joining processes, mechatronics, robotics, and IoT.",
+    "prerequisites": [],
+    "credits": 0,
+    "tags": [
+      "mechanical engineering",
+      "manufacturing",
+      "ic engines",
+      "materials science",
+      "mechatronics",
+      "robotics",
+      "iot"
+    ],
+    "topics": [
+      "Module-1: Introduction and Energy (Role of Mechanical Engineering in various sectors, fossil fuels, nuclear, hydel, solar, wind, bio-fuels, Global warming, Ozone depletion)",
+      "Module-2: Machine Tool Operations and Advanced Manufacturing Systems (Lathe, Drilling, Milling operations, components and applications of CNC, 3D printing)",
+      "Module-3: Introduction to IC Engines and Future Mobility (4-Strokes Petrol and Diesel Engines, Electric and Hybrid Vehicles components and advantages)",
+      "Module-4: Engineering Materials and Joining Processes (Ferrous & Nonferrous Metals, ceramics, polymers, Shape Memory Alloys, Soldering, Brazing, Arc and Gas Welding)",
+      "Module-5: Introduction to Mechatronics, Robotics and IOT (Open/closed-loop systems, robotics configurations, automation types, IoT physical/logical design and protocols)"
+    ],
+    "course_outcomes": [
+      "CO1: Explain the concepts of Role of Mechanical Engineering and Energy sources.",
+      "CO2: Describe the Machine Tool Operations and advanced Manufacturing process.",
+      "CO3: Explain the Working Principle of IC engines and EV vehicles.",
+      "CO4: Discuss the Properties of Common Engineering Materials and various Metal Joining Processes.",
+      "CO5: Explain the Concepts of Mechatronics, Robotics and Automation in IoT"
+    ]
+  },
+
+  {
+    "course_code": "BETCK105H/205H",
+    "name": "Introduction to IoT",
+    "description": "Introduction to the Internet of Things (IoT), covering basic networking, sensing and actuation, processing topologies, cloud computing integration, and domain-specific case studies like agriculture, healthcare, and vehicular IoT.",
+    "prerequisites": [],
+    "credits": 0,
+    "tags": [
+      "iot",
+      "networking",
+      "sensors",
+      "actuators",
+      "cloud computing",
+      "analytics"
+    ],
+    "topics": [
+      "Module-1: Basics of Networking and Emergence of IoT (Network Types, Layered network models, Evolution of IoT, Enabling IoT and Interdependence of Technologies, IoT Networking Components)",
+      "Module-2: IoT Sensing and Actuation (Sensors, Sensor Characteristics, Sensorial Deviations, Sensing Types, Sensing Considerations, Actuators, Actuator Types, Actuator Characteristics)",
+      "Module-3: IoT Processing Topologies and Types (Data Format, Importance of Processing in IoT, Processing Topologies, IoT Device Design and Selection Considerations, Processing Offloading)",
+      "Module-4: Associated IoT Technologies and Case Studies (Cloud Computing, Virtualization, Cloud Models, Service-Level Agreement, Sensor-Cloud, Agricultural IoT Case Studies)",
+      "Module-5: IoT Case Studies and Future Trends (Vehicular IoT, Healthcare IoT Case Studies, IoT Analytics Introduction)"
+    ],
+    "course_outcomes": [
+      "CO1: Describe the evolution of IoT, IoT networking components, and addressing strategies in IoT.",
+      "CO2: Classify various sensing devices and actuator types.",
+      "CO3: Demonstrate the processing in IoT.",
+      "CO4: Explain Associated IOT Technologoes",
+      "CO5: Illustrate architecture of IOT Applications"
+    ]
+  },
+
+  {
+    "course_code": "BETCK105I/ BETCK205I",
+    "name": "Introduction to Cyber Security",
+    "description": "Familiarize with cybercrime terminologies and perspectives, understand cyber offenses and botnets, gain knowledge on tools and methods used in cybercrimes, and understand phishing and computer forensics.",
+    "prerequisites": [],
+    "credits": 3,
+    "tags": [
+      "cyber security",
+      "cybercrime",
+      "computer forensics",
+      "phishing",
+      "botnets",
+      "hacking"
+    ],
+    "topics": [
+      "Module-1: Introduction to Cybercrime (Definition, Origins, Information Security, Cybercriminals, Classifications, Indian Perspective, Hacking and Indian Laws, Global Perspectives)",
+      "Module-2: Cyber Offenses (How Criminals Plan Them, Social Engineering, Cyber Stalking, Cyber cafe & cybercrimes, Botnets: The fuel for cybercrime)",
+      "Module-3: Tools and Methods used in Cybercrime (Proxy Servers, Anonymizers, Phishing, Password Cracking, Key Loggers and Spyways, Virus and Worms, Trozen Horses and Backdoors, Steganography, DoS and DDOS Attacks, Attacks on Wireless networks)",
+      "Module-4: Phishing and Identity Theft (Methods of phishing, phishing techniques, spear phishing, types of phishing scams, phishing toolkits and spy phishing, counter measures, Identity Theft)",
+      "Module-5: Understanding Computer Forensics (Historical Background, Digital Forensics Science, Need for Computer Forensics, Cyber Forensics and Digital Evidence, Digital Forensic Life cycle, Chain of Custody Concepts, network forensics)"
+    ],
+    "course_outcomes": [
+      "CO1: Understand the cybercrime, Classifications of Cybercrimes and hacking and Indian and Global Perspectives.",
+      "CO2: analyze criminals, understand Cyber offenses and Botnets.",
+      "CO3: Illustrate Tools and Methods used on Cybercrime",
+      "CO4: Explain Phishing and Identity Theft",
+      "CO5: Justify the need of computer forensics, Digital Evidence, and Chain of Custody Concepts"
+    ]
+  },
+  
+  {
+    "course_code": "BPLCK105B/205B",
+    "name": "Introduction to Python Programming",
+    "description": "Learn the syntax and semantics of the Python programming language, including data structures like lists and dictionaries, file system navigation, manipulation of various documents, and the implementation of Object-Oriented Programming concepts.",
+    "prerequisites": [],
+    "credits": 3,
+    "tags": [
+      "python",
+      "programming",
+      "data structures",
+      "file handling",
+      "object oriented programming",
+      "automation"
+    ],
+    "topics": [
+      "Module-1: Python Basics and Functions (Expressions, Data Types, Variables, Flow control, Boolean Operators, Functions, Local and Global Scope, Exception Handling)",
+      "Module-2: Lists and Dictionaries (List Data Type, Methods, Strings and Tuples as list-like types, References, Dictionaries and Structuring Data, Pretty Printing)",
+      "Module-3: Manipulating Strings and Reading/Writing Files (String Methods, Password Locker project, File Paths, os Module, shelve Module, Generating Random Quiz Files)",
+      "Module-4: Organizing Files and Debugging (shutil Module, Walking a Directory Tree, zipfile Module, Raising Exceptions, Tracebacks, Assertions, Logging, Debugger)",
+      "Module-5: Classes and Objects (Programmer-defined types, Attributes, Instances as return values, Classes and functions, Time, Pure functions, init/str methods, Operator overloading, Polymorphism)"
+    ],
+    "course_outcomes": [
+      "CO1: Demonstrate proficiency in handling loops and creation of functions.",
+      "CO2: Identify the methods to create and manipulate lists, tuples and dictionaries.",
+      "CO3: Develop programs for string processing and file organization",
+      "CO4: Interpret the concepts of Object-Oriented Programming as used in Python."
+    ]
+  },
+  
+  {
+    "course_code": "BENGK106/206",
+    "name": "English for Engineers",
+    "description": "Familiarize students with fundamentals of communicative English, basic grammar, and language skills. The course focuses on identifying common errors in writing and speaking, reading technical proposals, writing technical reports, and acquiring employment-related communication skills.",
+    "prerequisites": [],
+    "credits": 1,
+    "tags": [
+      "english",
+      "communication skills",
+      "technical writing",
+      "grammar",
+      "professional communication",
+      "employment skills"
+    ],
+    "topics": [
+      "Module-1: Introduction to Communicative English (Process of Communication, Barriers to Effective Communication, Forms of Communication, Professional Communication, Critical and Creative Thinking)",
+      "Module-2: Basic English Communicative Grammar and Vocabulary (Parts of Speech, Articles, Preposition, Question Tags, One Word Substitutes, Vocabulary)",
+      "Module-3: Identifying Common Errors in Writing and Speaking English (Common Errors in Parts of Speech, Verbs and Phrasal Verbs, Auxiliary Verbs, Subject-Verb Agreement/Concord Rules, Tenses)",
+      "Module-4: Technical Reading and Writing Practices (Technical Reports Writing, Significance and Types of Reports, Technical Proposals Writing, Characteristics of Proposals, Voices and Reported Speech)",
+      "Module-5: Professional Communication for Employment (Listening Comprehension and Barriers, Reading Comprehension, Job Applications, Resume vs. Bio Data vs. CV, Emails, Blog Writing, Memos)"
+    ],
+    "course_outcomes": [
+      "CO1: Understand and apply the fundamentals of communication skills in their communication.",
+      "CO2: To impart basic English Grammar and essentials of language skills as per requirement.",
+      "CO3: To understand and identify the Common Errors in Writing and Speaking",
+      "CO4: To read Technical proposals properly and make them to Write good technical reports.",
+      "CO5: Acquire Employment and Workplace communication skills"
+    ]
+  },
+  
+  {
+    "course_code": "BESCK104C/204C",
+    "name": "Introduction to Electronics & Communication",
+    "description": "Provides a fundamental overview of Electronics and Communication Engineering, covering semiconductor diodes, amplifiers, oscillators, Boolean algebra, logic circuits, embedded systems, sensors, and both analog and digital communication schemes.",
+    "prerequisites": [],
+    "credits": 3,
+    "tags": [
+      "electronics",
+      "communication",
+      "semiconductors",
+      "digital logic",
+      "embedded systems",
+      "modulation"
+    ],
+    "topics": [
+      "Module-1: Semiconductor Diodes and Applications (V-I Characteristics, PN Junction, Diode current equation, Ideal vs Real diodes, Rectifiers: Half wave, Full wave, Bridge, Capacitor filters)",
+      "Module-2: Amplifiers and Oscillators (Amplifier types, Gain, Bandwidth, Negative feedback, Barkhausen criterion, Wein bridge oscillator, Multivibrators, Crystal controlled oscillators)",
+      "Module-3: Boolean Algebra and Logic Circuits (Number systems, Conversions, Complements, Boolean Theorems, Digital Logic Gates, Combinational logic: Half adder, Full adder)",
+      "Module-4: Embedded Systems and Sensors (General computing vs Embedded, Core of Embedded systems, Microprocessor vs Microcontroller, RISC vs CISC, Transducers, Sensors, Actuators, LED, 7-Segment Display)",
+      "Module-5: Communication Schemes (Modern communication system, Transmitter, Receiver, Multiplexing, Analog Modulation: AM, FM, Radio wave propagation, Digital Modulation: ASK, FSK, PSK, Multiple access techniques)"
+    ],
+    "course_outcomes": [
+      "CO1: Explain the concept of amplifiers and Oscillator circuits",
+      "CO2: Explain the concept of Embedded system",
+      "CO3: Apply the Knowledge of diodes as a rectifier",
+      "CO4: Apply Boolean algebra in logic circuit synthesis",
+      "CO5: Analyze the concept of Analog and Digital Communication system"
+    ]
+  },
+  
+  {
+    "course_code": "BCOK107/ 207",
+    "name": "Indian Constitution",
+    "description": "An overview of the basic structure of the Indian Constitution, including Fundamental Rights, Directive Principles of State Policy, and Fundamental Duties. It covers the functioning of the Union and State Executives, the judicial system, electoral processes, and constitutional amendments.",
+    "prerequisites": [],
+    "credits": 1,
+    "tags": [
+      "constitution",
+      "indian government",
+      "civics",
+      "fundamental rights",
+      "legal studies",
+      "political science"
+    ],
+    "topics": [
+      "Module-1: Indian Constitution (Necessity of the Constitution, Making of the Constitution, Role of the Constituent Assembly)",
+      "Module-2: Salient features and Preamble (Salient features of India Constitution, Preamble & Key concepts, Fundamental Rights (FR’s) with restrictions and limitations)",
+      "Module-3: Directive Principles and Union Executive (DPSP’s relevance, Fundamental Duties scope and significance, Parliamentary System, President, Prime Minister, Union Cabinet)",
+      "Module-4: Parliament and Judiciary (Lok Sabha and Rajya Sabha, Parliamentary Committees and Terminologies, Judicial System, Supreme Court, Judicial Reviews, Judicial Activism)",
+      "Module-5: State Executive and Amendments (Governor, CM, State Cabinet, VS & VP, Election Commission and Electoral Process, Emergency Provisions, Constitutional Amendments)"
+    ],
+    "course_outcomes": [
+      "CO1: Analyze the basic structure of Indian Constitution.",
+      "CO2: Remember their Fundamental Rights, DPSP’s and Fundamental Duties (FD’s) of our constitution.",
+      "CO3: Know about our Union Government, political structure & codes, procedures.",
+      "CO4: Understand our State Executive & Elections system of India.",
+      "CO5: Remember the Amendments and Emergency Provisions, other important provisions given by the constitution."
+    ]
+  },
+  
+  {
+    "course_code": "BPLCK105C /205C",
+    "name": "Basics of Java Programming",
+    "description": "Learn fundamental features of object-oriented programming and JAVA, including setting up the JDK environment, mastering core concepts through programming examples, and studying packages and exception handling mechanisms.",
+    "prerequisites": [],
+    "credits": 3,
+    "tags": [
+      "java",
+      "programming",
+      "object oriented programming",
+      "inheritance",
+      "exception handling",
+      "packages"
+    ],
+    "topics": [
+      "Module-1: An Overview of Java (OOP principles, Simple Programs, Control Statements, Blocks of Code, Lexical Issues, Java Class Libraries, Primitive Data Types, Variables, Type Conversion, Casting, Arrays, Strings)",
+      "Module-2: Operators and Control Statements (Arithmetic, Bitwise, Relational, Boolean Logical, and Assignment Operators, Operator Precedence, Selection Statements, Iteration Statements, Jump Statements)",
+      "Module-3: Introducing Classes and Methods (Class Fundamentals, Declaring Objects, Object Reference Variables, Methods, Constructors, 'this' Keyword, Garbage Collection, Method Overloading, Recursion, Access Control, Static, Final)",
+      "Module-4: Inheritance (Inheritance Basics, Using 'super', Multilevel Hierarchy, Method Overriding, Dynamic Method Dispatch, Abstract Classes, Object Class)",
+      "Module-5: Packages, Interfaces, and Exception Handling (Importing Packages, Access Protection, Interfaces, Exception Types, try-catch-finally, throw/throws, Built-in Exceptions, Custom Exception Subclasses, Chained Exceptions)"
+    ],
+    "course_outcomes": [
+      "CO1: To explain the features and object oriented concepts in JAVA programming",
+      "CO2: To analyse working of bitwise operators in JAVA",
+      "CO3: To develop simple programs based on polymorphism and inheritance",
+      "CO4: To describe the concepts of importing packages and exception handling mechanism"
+    ]
+  },
+  
+  {
+    "course_code": "BCS301",
+    "name": "Mathematics for Computer Science",
+    "description": "Covers probability distributions, joint probability, Markov chains, and statistical inference. Includes testing of hypotheses, design of experiments, and ANOVA techniques tailored for computer science applications.",
+    "prerequisites": [],
+    "credits": 4,
+    "tags": [
+      "mathematics",
+      "probability",
+      "statistics",
+      "markov chains",
+      "statistical inference",
+      "anova"
+    ],
+    "topics": [
+      "Module-1: Probability Distributions (Review of basic probability theory, Discrete and continuous random variables, PMF/PDF, Mathematical expectation, Binomial, Poisson, Normal, and Exponential distributions)",
+      "Module-2: Joint probability distribution & Markov Chain (Joint distribution for two discrete random variables, covariance and correlation, Stochastic Process, Probability Vectors, Transition probabilities, Stationary distribution, Absorbing states)",
+      "Module-3: Statistical Inference 1 (Sampling distribution, standard error, testing of hypothesis, levels of significance, test of significances for large samples, confidence limits)",
+      "Module-4: Statistical Inference 2 (Central limit theorem, confidence limits for unknown mean, students ‘t’ distribution, Chi-square distribution for goodness of fit, F-Distribution)",
+      "Module-5: Design of Experiments & ANOVA (Principles of experimentation, completely randomized design, randomized block design, One-way and Two-way ANOVA, Latin-square Design, Analysis of Co-Variance)"
+    ],
+    "course_outcomes": [
+      "CO1: Apply probability distributions to solve computing and engineering problems.",
+      "CO2: Analyze joint probability distributions and utilize Markov chains for stochastic modeling.",
+      "CO3: Perform statistical inference and hypothesis testing for large samples.",
+      "CO4: Apply small sample tests including t-distribution and Chi-square tests for data validation.",
+      "CO5: Design and analyze engineering experiments using ANOVA techniques."
+    ]
+  },
+  
+  {
+    "course_code": "BCS302",
+    "name": "Digital Design and Computer Organization",
+    "description": "Demonstrate the functionalities of binary logic systems, explain the working of combinational and sequential logic, realize the basic structure of a computer system, and illustrate the working of I/O operations and the basic processing unit.",
+    "prerequisites": [],
+    "credits": 4,
+    "tags": [
+      "digital design",
+      "computer organization",
+      "boolean algebra",
+      "verilog",
+      "combinational logic",
+      "sequential logic",
+      "pipelining"
+    ],
+    "topics": [
+      "Module-1: Introduction to Digital Design (Binary Logic, Boolean Algebra, Digital Logic Gates, Map Method, Four-Variable Map, NAND and NOR Implementation, Verilog Model)",
+      "Module-2: Combinational and Sequential Logic (Binary Adder-Subtractor, Decoders, Encoders, Multiplexers, HDL Models, Latches, Flip-Flops)",
+      "Module-3: Basic Structure of Computers and Machine Instructions (Functional Units, Bus structure, Processor Clock, Performance Equation, Memory Location/Addresses, Addressing Modes)",
+      "Module-4: Input/output Organization (Accessing I/O Devices, Interrupt Hardware, Direct Memory Access, Bus Arbitration, Cache Memories, Mapping Functions)",
+      "Module-5: Basic Processing Unit and Pipelining (Register Transfers, ALU operations, Execution of a Complete Instruction, Pipelining Concepts, Pipeline Performance)"
+    ],
+    "course_outcomes": [
+      "CO1: Apply the K–Map techniques to simplify various Boolean expressions.",
+      "CO2: Design different types of combinational and sequential circuits along with Verilog programs.",
+      "CO3: Describe the fundamentals of machine instructions, addressing modes and Processor performance.",
+      "CO4: Explain the approaches involved in achieving communication between processor and I/O devices.",
+      "CO5: Analyze internal Organization of Memory and Impact of cache/Pipelining on Processor Performance."
+    ]
+  },
+  
+  {
+    "course_code": "BCS303",
+    "name": "Operating Systems",
+    "description": "Demonstrate the need for OS and different types of OS, discuss suitable techniques for management of different resources, and demonstrate different APIs/Commands related to processor, memory, storage and file system management.",
+    "prerequisites": [],
+    "credits": 4,
+    "tags": [
+      "operating systems",
+      "process management",
+      "scheduling",
+      "deadlocks",
+      "memory management",
+      "file systems",
+      "virtual memory"
+    ],
+    "topics": [
+      "Module-1: Introduction to operating systems and System structures (What operating systems do, System calls, Operating system design and implementation, Virtual machines, System boot)",
+      "Module-2: Process Management and Scheduling (Process concept, Inter process communication, Multithreading models, Thread Libraries, Scheduling Algorithms: FCFS, SJF, RR, Priority)",
+      "Module-3: Process Synchronization and Deadlocks (Critical section problem, Peterson’s solution, Semaphores, Classical problems of synchronization, Deadlock characterization, Prevention, Avoidance, and Recovery)",
+      "Module-4: Memory Management (Swapping, Contiguous memory allocation, Paging, Structure of page table, Segmentation, Demand paging, Page replacement, Allocation of frames, Thrashing)",
+      "Module-5: File System and Secondary Storage Structure (File concept, Access methods, Directory and Disk structure, Allocation methods, Free space management, Disk scheduling, Protection goals and principles)"
+    ],
+    "course_outcomes": [
+      "CO 1. Discuss the Fundamental architectural components concepts of the Operating System.",
+      "CO 2. Use the appropriate structure and functionality of the operating system.",
+      "CO 3. Analyze the various techniques for handling the services of an operating system.",
+      "CO 4. Test the various functions, API’s and Algorithms of Operating System using ‘C’ Language."
+    ]
+  },
+ 
+  {
+    "course_code": "BCS304",
+    "name": "Data Structure and Applications",
+    "description": "Explain fundamentals of data structures and their applications. Illustrate representation of stack, queues, linked lists, trees and graphs. Design and develop solutions using linear and nonlinear data structures, and introduce advanced concepts like Hashing and Optimal Binary Search Trees.",
+    "prerequisites": ["Basics of C programming concepts"],
+    "credits": 3,
+    "tags": [
+      "data structures",
+      "c programming",
+      "stack",
+      "queues",
+      "linked lists",
+      "trees",
+      "graphs",
+      "hashing"
+    ],
+    "topics": [
+      "Module-1: Introduction to Data Structures, Arrays and Stacks (Classifications, Pointers, Dynamic Memory Allocation, Arrays, Structures, Unions, Polynomials, Sparse Matrices, Stacks using Dynamic Arrays, Expression Evaluation)",
+      "Module-2: Queues and Linked Lists (Circular Queues, Multiple Stacks and Queues, Singly Linked Lists and Chains, Linked Stacks and Queues, Polynomial representation)",
+      "Module-3: Advanced Linked Lists and Trees (Additional List Operations, Sparse Matrices, Doubly Linked List, Binary Trees, Traversals, Threaded Binary Trees)",
+      "Module-4: Advanced Trees and Graphs (Binary Search Trees, Selection Trees, Forests, Disjoint sets, Counting Binary Trees, Graph Abstract Data Types, Elementary Graph Operations)",
+      "Module-5: Hashing and Efficient Binary Search Trees (Static Hashing, Dynamic Hashing, Single and Double ended Priority Queues, Leftist Trees, Optimal Binary Search Trees)"
+    ],
+    "course_outcomes": [
+      "CO1: Explain different data structures and their applications.",
+      "CO2: Apply Arrays, Stacks and Queue data structures to solve the given problems.",
+      "CO3: Use the concept of linked list in problem solving.",
+      "CO4: Develop solutions using trees and graphs to model the real-world problem.",
+      "CO5: Explain the advanced Data Structures concepts such as Hashing Techniques and Optimal Binary Search Trees."
+    ]
+  },
+  
+  {
+    "course_code": "BCSL305",
+    "name": "Data Structures Laboratory",
+    "description": "Practical experience in design, development, implementation, and analysis of dynamic memory management, linear data structures (stacks, queues, lists), and non-linear data structures (trees, graphs).",
+    "prerequisites": ["C Programming Concepts"],
+    "credits": 1,
+    "tags": [
+      "data structures",
+      "laboratory",
+      "c programming",
+      "stack",
+      "queues",
+      "linked lists",
+      "trees",
+      "graphs",
+      "hashing"
+    ],
+    "topics": [
+      "Program 1: Dynamic Array Structures (Calendar application with dynamic string allocation)",
+      "Program 2: String Operations (Pattern matching and replacement without built-in functions)",
+      "Program 3: Stack Operations (Array implementation, Push, Pop, Palindrome check, Overflow/Underflow)",
+      "Program 4: Expression Conversion (Infix to Postfix conversion with operator precedence)",
+      "Program 5: Stack Applications (Suffix expression evaluation, Tower of Hanoi)",
+      "Program 6: Circular Queues (Array implementation, Insertion, Deletion, Status display)",
+      "Program 7: Singly Linked List (SLL) (Student data management, front insertion, node counting, stack demonstration)",
+      "Program 8: Doubly Linked List (DLL) (Employee data management, end insertion, Double Ended Queue demonstration)",
+      "Program 9: Singly Circular Linked List (SCLL) (Polynomial representation, evaluation, and addition)",
+      "Program 10: Binary Search Tree (BST) (Creation, Inorder/Preorder/Postorder traversal, Searching)",
+      "Program 11: Graph Operations (Adjacency Matrix creation, Connectivity using BFS/DFS)",
+      "Program 12: Hashing (Hash Table implementation, remainder method, collision resolution via linear probing)"
+    ],
+    "course_outcomes": [
+      "CO1: Analyze and Compare various linear and non-linear data structures",
+      "CO2: Code, debug and demonstrate the working nature of different types of data structures and their applications",
+      "CO3: Use appropriate searching and sorting algorithms for the give scenario.",
+      "CO4: Apply the appropriate data structure for solving real world problems."
+    ]
+  },
+  
+  {
+    "course_code": "BCS306B",
+    "name": "Object Oriented Programming with C++",
+    "description": "Introduces the concepts of Object-Oriented Programming (OOP) using C++. Covers the transition from procedural to object-oriented paradigms, including classes, objects, inheritance, polymorphism, and exception handling.",
+    "prerequisites": ["Basics of C Programming"],
+    "credits": 3,
+    "tags": [
+      "c++",
+      "oop",
+      "object oriented programming",
+      "polymorphism",
+      "inheritance",
+      "templates",
+      "exception handling"
+    ],
+    "topics": [
+      "Module-1: Introduction to Object Oriented Programming (Review of C, basic concepts of OOP, Characteristics of OOP, C++ Program Structure, Tokens, Expressions, and Control Structures)",
+      "Module-2: Functions, Classes and Objects (Function Prototyping, Inline functions, Friend and Virtual Functions, Specifying a class, Defining Member Functions, Nesting of Member Functions, Memory Allocation for Objects, Static Data Members/Functions)",
+      "Module-3: Constructors, Destructors and Operator Overloading (Constructors, Parameterized Constructors, Multiple Constructors, Copy Constructors, Destructors, Overloading Unary and Binary Operators)",
+      "Module-4: Inheritance and Pointers (Defining Derived Classes, Single/Multiple/Multilevel/Hybrid Inheritance, Virtual Base Classes, Pointers to Objects, this pointer, Virtual Functions and Pure Virtual Functions)",
+      "Module-5: Templates, Exception Handling and I/O (Function Templates, Class Templates, Basics of Exception Handling, Try-Throw-Catch mechanism, C++ Stream Classes, Unformatted/Formatted I/O, Working with Files)"
+    ],
+    "course_outcomes": [
+      "CO1: Explain the fundamental concepts of Object Oriented Programming with C++.",
+      "CO2: Design and implement classes, objects, and member functions.",
+      "CO3: Apply operator overloading and constructors in C++ applications.",
+      "CO4: Utilize inheritance and polymorphism to solve complex programming problems.",
+      "CO5: Implement templates and exception handling mechanisms for robust software development."
+    ]
+  },
+  
+  {
+    "course_code": "BSCK307",
+    "name": "Social Connect and Responsibility",
+    "description": "To create social awareness and responsibility among engineering students through community engagement, understanding local problems, and contributing to sustainable development goals. The course emphasizes field-based learning and social sensitivity.",
+    "prerequisites": [],
+    "credits": 1,
+    "tags": [
+      "social responsibility",
+      "community engagement",
+      "sustainability",
+      "ethics",
+      "rural development",
+      "environment"
+    ],
+    "topics": [
+      "Module-1: Plantation and Adoption of a Tree (Importance of greenery, environmental protection, individual responsibility toward nature, practical activity of planting and nurturing trees)",
+      "Module-2: Heritage Walk and Pride (Exploring local heritage sites, understanding historical and cultural significance, documentation of heritage values and preservation efforts)",
+      "Module-3: Organic Farming and Waste Management (Introduction to organic farming practices, vermicomposting, segregation of waste, recycling, and sustainable living practices)",
+      "Module-4: Water Conservation (Understanding water scarcity, rainwater harvesting techniques, visiting local water bodies, and creating awareness about efficient water usage)",
+      "Module-5: Technological Solutions for Social Problems (Identifying local community issues, applying engineering knowledge to provide low-cost technological solutions for social well-being)"
+    ],
+    "course_outcomes": [
+      "CO1: Develop social sensitivity and an understanding of community problems.",
+      "CO2: Demonstrate responsibility toward the environment through plantation and conservation activities.",
+      "CO3: Appreciate and document the cultural heritage and history of the local region.",
+      "CO4: Implement sustainable practices like organic farming and effective waste management.",
+      "CO5: Apply engineering skills to solve real-world societal challenges."
+    ]
+  },
+  
+  {
+    "course_code": "BCS358A",
+    "name": "Data Analytics with Python",
+    "description": "Explores the fundamental concepts of data analytics using Python. Covers data collection, cleaning, transformation, and visualization, along with statistical analysis and the application of machine learning libraries to extract insights from data.",
+    "prerequisites": ["Introduction to Python Programming (BPLCK105B/205B)", "Mathematics for Computer Science (BCS301)"],
+    "credits": 3,
+    "tags": [
+      "python",
+      "data analytics",
+      "pandas",
+      "numpy",
+      "matplotlib",
+      "data visualization",
+      "statistical analysis"
+    ],
+    "topics": [
+      "Module-1: Introduction to Data Analytics (Data Analytics process, Python for Data Science, NumPy basics: Arrays, Vectorization, and Broadcasting, Basic Statistical tools)",
+      "Module-2: Data Manipulation with Pandas (Series and DataFrame objects, Data Indexing and Selection, Handling Missing Data, Hierarchical Indexing, Combining Datasets: Concat, Append, Merge, and Join)",
+      "Module-3: Data Cleaning and Preparation (Data Transformation, String Manipulation, Vectorized String Operations, Working with Time Series, Resampling and Windowing)",
+      "Module-4: Data Visualization (Matplotlib basics, Line plots, Scatter plots, Visualizing Errors, Density and Contour plots, Histograms, Customizing Plot Legends and Colorbars, Introduction to Seaborn)",
+      "Module-5: Predictive Analytics and Applications (Introduction to Scikit-Learn, Hyperparameters and Model Validation, Feature Engineering, Linear Regression, Support Vector Machines, Case studies in Data Analytics)"
+    ],
+    "course_outcomes": [
+      "CO1: Demonstrate the use of NumPy and Pandas for efficient data manipulation.",
+      "CO2: Apply data cleaning and transformation techniques to prepare datasets for analysis.",
+      "CO3: Create comprehensive data visualizations to represent complex data relationships.",
+      "CO4: Perform statistical analysis and hypothesis testing using Python libraries.",
+      "CO5: Implement basic machine learning models for predictive analytics on real-world datasets."
+    ]
+  },
+  
+  {
+    "course_code": "BCS306A",
+    "name": "Object Oriented Programming with Java",
+    "description": "Comprehensive study of Object-Oriented Programming (OOP) principles using Java. Covers classes, objects, inheritance, polymorphism, interfaces, and packages, alongside advanced features like exception handling and multithreading.",
+    "prerequisites": ["Introduction to C Programming (BPOPS103/203)"],
+    "credits": 3,
+    "tags": [
+      "java",
+      "oop",
+      "object oriented programming",
+      "multithreading",
+      "exception handling",
+      "interfaces",
+      "inheritance"
+    ],
+    "topics": [
+      "Module-1: Introduction to Java (History, Java Buzzwords, JVM Architecture, Data Types, Variables, Arrays, Operators, Control Statements)",
+      "Module-2: Classes and Objects (Class Fundamentals, Declaring Objects, Methods, Constructors, 'this' keyword, Garbage Collection, Overloading Methods, Objects as Parameters, Recursion, Access Control)",
+      "Module-3: Inheritance and Interfaces (Inheritance basics, Member Access, 'super' keyword, Multilevel Hierarchy, Method Overriding, Dynamic Method Dispatch, Abstract Classes, Final with Inheritance, Interfaces: Defining, Implementing, and Applying)",
+      "Module-4: Packages and Exception Handling (Packages: Defining, Finding, and Access Protection, Importing Packages, Exception Handling Fundamentals, Types, try-catch-finally, throw/throws, Custom Exceptions)",
+      "Module-5: Multithreaded Programming and I/O (The Java Thread Model, Main Thread, Creating Threads, Thread Priorities, Synchronization, Inter-thread Communication, Enumerations, Type Wrappers, Autoboxing, I/O Basics)"
+    ],
+    "course_outcomes": [
+      "CO1: Explain the fundamental features of Java and the JVM architecture.",
+      "CO2: Design and implement classes and objects using encapsulation and constructors.",
+      "CO3: Apply inheritance and polymorphism to create reusable and extensible code.",
+      "CO4: Utilize interfaces and packages to organize code and manage access protection.",
+      "CO5: Develop robust applications using exception handling and multithreaded programming."
+    ]
+  },
+  
+  {
+    "course_code": "BCS306C",
+    "name": "Project Management with Git",
+    "description": "Practical course on version control using Git. Covers repository initialization, branching strategies, collaboration via remote repositories, stashing, tagging, and advanced history analysis/manipulation.",
+    "prerequisites": ["Basic Computer Knowledge"],
+    "credits": 1,
+    "tags": [
+      "git",
+      "version control",
+      "devops",
+      "collaboration",
+      "software engineering",
+      "project management"
+    ],
+    "topics": [
+      "Experiment 1: Setting Up and Basic Commands (git init, git add, git commit)",
+      "Experiment 2-3: Creating and Managing Branches (git branch, git checkout/switch, git merge, git stash, git stash apply)",
+      "Experiment 4-6: Collaboration and Remote Repositories (git clone, git fetch, git rebase, merging branches with custom messages)",
+      "Experiment 7-8: Git Tags and Advanced Operations (Lightweight tags v1.0, git cherry-pick for ranges of commits)",
+      "Experiment 9-12: Analysing and Changing Git History (git show, git log with author/date filters, git log -n, git revert/reset)"
+    ],
+    "course_outcomes": [
+      "CO1: Initialize and manage local Git repositories with proper staging and committing workflows.",
+      "CO2: Implement branching and merging strategies to manage parallel feature development.",
+      "CO3: Collaborate with remote teams using cloning, fetching, and rebasing techniques.",
+      "CO4: Utilize advanced Git operations like cherry-picking and stashing to handle complex code changes.",
+      "CO5: Analyze and manipulate repository history to audit changes or undo specific commits."
+    ]
+  },
+  
+  {
+    "course_code": "BCS401",
+    "name": "Analysis and Design of Algorithms",
+    "description": "Introduces the mathematical analysis of recursive and non-recursive algorithms. Covers various design strategies such as Brute Force, Divide and Conquer, Greedy Technique, Dynamic Programming, and Backtracking, alongside NP-Completeness and computational complexity.",
+    "prerequisites": ["Data Structure and Applications (BCS304)", "Mathematics for Computer Science (BCS301)"],
+    "credits": 4,
+    "tags": [
+      "algorithms",
+      "ada",
+      "complexity analysis",
+      "divide and conquer",
+      "dynamic programming",
+      "greedy algorithms",
+      "backtracking"
+    ],
+    "topics": [
+      "Module-1: Introduction to Algorithm Analysis (Asymptotic Notations: Big-O, Omega, Theta; Mathematical analysis of Non-recursive and Recursive algorithms, Brute Force: Selection Sort, Bubble Sort, Sequential Search)",
+      "Module-2: Divide and Conquer (Merge Sort, Quick Sort, Binary Search, Binary Tree Traversals, Multiplication of Large Integers, Strassen’s Matrix Multiplication)",
+      "Module-3: Greedy Technique and Transform-and-Conquer (Prim’s Algorithm, Kruskal’s Algorithm, Dijkstra’s Algorithm, Huffman Trees, Knapsack Problem, Heaps and Heap Sort)",
+      "Module-4: Dynamic Programming (Warshall’s and Floyd’s Algorithms, Knapsack Problem with DP, Memory Functions, Optimal Binary Search Trees, Traveling Salesperson Problem)",
+      "Module-5: Backtracking and Branch-and-Bound (n-Queens problem, Hamiltonian Circuit, Subset-Sum Problem, Assignment Problem, Introduction to P, NP, and NP-Complete problems)"
+    ],
+    "course_outcomes": [
+      "CO1: Analyze the performance of recursive and non-recursive algorithms using asymptotic notations.",
+      "CO2: Apply divide-and-conquer strategy to solve sorting and searching problems.",
+      "CO3: Design efficient solutions for optimization problems using Greedy and Dynamic Programming techniques.",
+      "CO4: Implement state-space tree search methods like Backtracking to solve combinatorial problems.",
+      "CO5: Distinguish between polynomial-time and non-polynomial-time complexity classes (P, NP, NP-Complete)."
+    ]
+  },
+  
+  {
+    "course_code": "BCS403",
+    "name": "Database Management Systems",
+    "description": "Introduces the fundamental concepts of database systems, including the Entity-Relationship (ER) model, Relational Algebra, and SQL. Covers database design, normalization, transaction management, concurrency control, and recovery systems.",
+    "prerequisites": ["Data Structure and Applications (BCS304)", "Mathematics for Computer Science (BCS301)"],
+    "credits": 3,
+    "tags": [
+      "dbms",
+      "sql",
+      "relational database",
+      "normalization",
+      "transaction management",
+      "er model",
+      "nosql"
+    ],
+    "topics": [
+      "Module-1: Introduction and Data Modeling (Characteristics of DBMS, Actors, Data Models, Schemas, Instances, Three-Schema Architecture, Entity-Relationship (ER) Modeling, Entities, Attributes, Relationships, Enhanced ER (EER) Concepts)",
+      "Module-2: Relational Model and Algebra (Relational Model Constraints, Relational Database Schemas, Update Operations, Relational Algebra: Select, Project, Join, Set Operations, Division)",
+      "Module-3: SQL and Database Design (SQL Data Definition (DDL) and Manipulation (DML), Constraints, Queries, Triggers, Views, Functional Dependencies, Normalization: 1NF, 2NF, 3NF, BCNF)",
+      "Module-4: Transaction Management (Transaction States, ACID Properties, Schedules, Serializability, Concurrency Control: Locking Techniques, Timestamp Ordering, Deadlock Handling)",
+      "Module-5: Recovery and Advanced Topics (Recovery Concepts, Shadow Paging, Log-Based Recovery, Introduction to NoSQL Databases, CAP Theorem, Distributed Databases)"
+    ],
+    "course_outcomes": [
+      "CO1: Design an Entity-Relationship (ER) model for a given real-world application requirement.",
+      "CO2: Formulate queries using Relational Algebra and Structured Query Language (SQL).",
+      "CO3: Apply normalization techniques to optimize database design and eliminate redundancy.",
+      "CO4: Analyze transaction processing and concurrency control mechanisms for data integrity.",
+      "CO5: Describe database recovery techniques and understand the fundamentals of NoSQL architectures."
+    ]
+  },
+  
+  {
+    "course_code": "BCS402",
+    "name": "Microcontroller and Embedded Systems",
+    "description": "Explores the architecture and programming of microcontrollers, focusing on the ARM Cortex-M series. Covers embedded system design, hardware-software co-design, interfacing with sensors/actuators, and real-time operating system (RTOS) concepts.",
+    "prerequisites": ["Digital Design and Computer Organization (BCS302)", "Introduction to C Programming (BPOPS103/203)"],
+    "credits": 3,
+    "tags": [
+      "microcontrollers",
+      "embedded systems",
+      "arm cortex",
+      "assembly language",
+      "interfacing",
+      "rtos",
+      "hardware"
+    ],
+    "topics": [
+      "Module-1: Microprocessor and Microcontroller Architecture (Introduction to 8051 and ARM, ARM Cortex-M architecture, Registers, Memory Map, Stack, and Pipeline)",
+      "Module-2: ARM Cortex-M Programming (Instruction set, Addressing modes, Assembly language vs C programming for embedded systems, CMSIS standard)",
+      "Module-3: Embedded System Design (Definition, Classification, Characteristics, Hardware-Software Co-design, Core of the embedded system, Memory types, Communication interfaces: I2C, SPI, UART)",
+      "Module-4: Interfacing with Peripherals (GPIO, Timers, ADC, DAC, PWM, Interfacing with LEDs, Switches, LCDs, Stepper Motors, and Sensors)",
+      "Module-5: Real-Time Operating Systems (RTOS) (Concepts of Task, Process, and Threads, Task Scheduling, Inter-process Communication, Real-time kernels vs standard OS)"
+    ],
+    "course_outcomes": [
+      "CO1: Describe the architectural features of ARM Cortex-M microcontrollers.",
+      "CO2: Write and debug assembly and C programs for microcontroller applications.",
+      "CO3: Design hardware-software interfaces for embedded systems using communication protocols.",
+      "CO4: Implement peripheral interfacing for real-world control systems (sensors, motors).",
+      "CO5: Explain the principles of Real-Time Operating Systems (RTOS) and task management."
+    ]
+  },
+
+  {
+    "course_code": "BCSL404",
+    "name": "Analysis and Design of Algorithms Laboratory",
+    "description": "Practical implementation and performance analysis of algorithms. Includes programs on sorting, searching, greedy techniques, dynamic programming, and backtracking. Focuses on measuring time complexity and understanding algorithmic efficiency.",
+    "prerequisites": ["Data Structure and Applications (BCS304)", "Design and Analysis of Algorithms (BCS401)"],
+    "credits": 1,
+    "tags": [
+      "algorithms",
+      "laboratory",
+      "java",
+      "performance analysis",
+      "complexity",
+      "sorting",
+      "graph algorithms"
+    ],
+    "topics": [
+      "Experiment 1: Divide and Conquer - Sorting (Implementation of Merge Sort and Quick Sort, comparing their performance for different input sizes)",
+      "Experiment 2: Greedy Technique - Minimum Spanning Trees (Implementation of Prim’s and Kruskal’s algorithms to find the MST of a graph)",
+      "Experiment 3: Greedy Technique - Shortest Paths (Implementation of Dijkstra’s algorithm for single-source shortest path problem)",
+      "Experiment 4: Dynamic Programming - All Pairs Shortest Path (Implementation of Floyd-Warshall algorithm)",
+      "Experiment 5: Dynamic Programming - Knapsack Problem (Solving the 0/1 Knapsack problem using the dynamic programming approach)",
+      "Experiment 6: Graph Traversals (Implementation of BFS and DFS to check for connectivity and reachability in a graph)",
+      "Experiment 7: Backtracking - N-Queens Problem (Implementation of the N-Queens problem to find non-attacking placements on a chessboard)",
+      "Experiment 8: Backtracking - Subset Sum Problem (Finding a subset of a given set whose sum is equal to a target value)",
+      "Experiment 9: Branch and Bound - Traveling Salesperson Problem (Implementation of TSP using state-space search)",
+      "Experiment 10: Performance Analysis (Generating random input data and plotting time complexity graphs for various algorithms)"
+    ],
+    "course_outcomes": [
+      "CO1: Design and implement various algorithms using Java/C++.",
+      "CO2: Measure and analyze the time complexity of algorithms empirically.",
+      "CO3: Apply different design techniques like Greedy and Dynamic Programming to solve real-world problems.",
+      "CO4: Implement state-space search algorithms using Backtracking and Branch and Bound.",
+      "CO5: Compare the efficiency of different algorithms for the same problem through experimental results."
+    ]
+  },
+  
+  {
+    "course_code": "BCS405A",
+    "name": "Discrete Mathematical Structures",
+    "description": "Foundational course covering mathematical logic, set theory, relations, functions, and graph theory. Focuses on providing the theoretical basis for computer science applications like database design, networking, and formal verification.",
+    "prerequisites": ["Mathematics for Computer Science (BCS301)"],
+    "credits": 3,
+    "tags": [
+      "discrete mathematics",
+      "logic",
+      "set theory",
+      "graph theory",
+      "combinatorics",
+      "relations",
+      "functions"
+    ],
+    "topics": [
+      "Module-1: Fundamentals of Logic (Basic Connectives and Truth Tables, Logical Equivalence, Quantifiers, Rules of Inference, Proof Methods: Direct, Indirect, and Contradiction)",
+      "Module-2: Set Theory and Induction (Sets and Subsets, Set Operations and Laws, Principles of Counting, Mathematical Induction: Strong Induction and Well-ordering Principle)",
+      "Module-3: Relations and Functions (Properties of Relations, Computer Representation of Relations, Equivalence Relations, Partial Orderings and Hasse Diagrams, Functions: One-to-one, Onto, Inverses, and Composition)",
+      "Module-4: Principles of Counting and Recurrence Relations (Permutations, Combinations, The Pigeonhole Principle, Binomial Theorem, First-Order and Second-Order Linear Recurrence Relations)",
+      "Module-5: Introduction to Graph Theory (Definitions and Examples, Subgraphs, Complements, Graph Isomorphism, Vertex Degree, Euler Trails and Circuits, Planar Graphs, Graph Coloring)"
+    ],
+    "course_outcomes": [
+      "CO1: Utilize mathematical logic and rules of inference to verify the validity of arguments and programs.",
+      "CO2: Apply set theory and principles of counting to solve combinatorial problems in computer science.",
+      "CO3: Analyze relations and functions, specifically using Hasse diagrams for partial orderings.",
+      "CO4: Formulate and solve recurrence relations to analyze the time complexity of recursive algorithms.",
+      "CO5: Apply graph theory concepts to model and solve problems in networking and data structures."
+    ]
+  },
+  
+  {
+    "course_code": "BCSL456D",
+    "name": "Technical Writing using LaTeX",
+    "description": "A practical course focused on the industry-standard scientific typesetting system. Students learn to create high-quality technical documents, project reports, and research papers with automated formatting, mathematical typesetting, and bibliography management.",
+    "prerequisites": [],
+    "credits": 1,
+    "tags": [
+      "latex",
+      "technical writing",
+      "typesetting",
+      "documentation",
+      "bibtex",
+      "tikz",
+      "report writing"
+    ],
+    "topics": [
+      "Experiment 1: Basic Document Structure (Sections, subsections, headers/footers, text formatting)",
+      "Experiment 2: Page Geometry and Styles (Abstract formatting, margin controls, document classes)",
+      "Experiment 3: Title Page and Certificates (Standard VTU report layouts, logos, alignment)",
+      "Experiment 4: Tabular Data and Graphics (Advanced tables, multi-column/row, sub-figures, side-by-side images)",
+      "Experiment 5: Mathematical and Algorithmic Typesetting (Complex equations, theorems, logic flow, and pseudo-code presentation)",
+      "Experiment 6: Bibliography and References (BibTeX integration, in-text citations, cross-referencing, TikZ for vector diagrams)"
+    ],
+    "course_outcomes": [
+      "CO1: Utilize LaTeX commands to develop structured, professional technical documents.",
+      "CO2: Integrate complex tables, figures, and sub-figures with automated labeling.",
+      "CO3: Typeset intricate mathematical formulas and theorems for scientific reporting.",
+      "CO4: Manage citations and bibliographies effectively using BibTeX.",
+      "CO5: Use specialized packages like TikZ and Algorithm2e for diagrams and logic representations."
+    ]
+  },
+  
+  {
+    "course_code": "BBOC407",
+    "name": "Biology for Engineers",
+    "description": "Explores the fundamental principles of biology through an engineering lens. Covers biomolecules, cell biology, genetics, and human physiology, emphasizing how biological systems inspire engineering designs (Biomimetics) and the application of engineering tools in healthcare.",
+    "prerequisites": [],
+    "credits": 3,
+    "tags": [
+      "biology",
+      "biomimetics",
+      "bio-engineering",
+      "genetics",
+      "biomolecules",
+      "sustainable design"
+    ],
+    "topics": [
+      "Module-1: Introduction to Biology (The cell as the unit of life, structure and function of prokaryotic and eukaryotic cells, Biomolecules: Carbohydrates, Lipids, Proteins, and Nucleic acids)",
+      "Module-2: Human Physiology and Biomedical Engineering (Basics of the Nervous system, Circulatory system, and Respiratory system; Engineering applications in medical diagnostics and prosthetic design)",
+      "Module-3: Genetics and Molecular Biology (Mendelian genetics, DNA replication, Transcription, Translation, Introduction to Genetic Engineering and CRISPR technology)",
+      "Module-4: Biomimetics and Nature-Inspired Design (Principles of Biomimicry, examples of bio-inspired engineering: Lotus effect, Shark skin, Velcro, and Bird-inspired flight dynamics)",
+      "Module-5: Trends in Bio-Engineering (Biosensors, Bio-fuel, Bioremediation, and the role of Big Data and AI in modern biological research)"
+    ],
+    "course_outcomes": [
+      "CO1: Explain the fundamental structures of cells and the roles of key biomolecules.",
+      "CO2: Describe the functioning of human physiological systems from an engineering perspective.",
+      "CO3: Discuss the principles of genetics and the impact of gene-editing technologies.",
+      "CO4: Apply the principles of biomimicry to solve engineering challenges with nature-inspired designs.",
+      "CO5: Identify emerging trends in bio-engineering, including sustainable energy and smart biosensors."
+    ]
+  },
+  
+  {
+    "course_code": "BUHK408",
+    "name": "Universal Human Values",
+    "description": "A foundation course that facilitates a transformation from 'skill-based' education to 'value-based' education. It explores human aspirations, harmony in self, family, society, and nature, and the importance of professional ethics in engineering.",
+    "prerequisites": [],
+    "credits": 1,
+    "tags": [
+      "human values",
+      "ethics",
+      "professionalism",
+      "harmony",
+      "self-exploration",
+      "sustainability"
+    ],
+    "topics": [
+      "Module-1: Introduction to Value Education (Self-exploration, basic human aspirations: Prosperity and Happiness, understanding the 'Self' and the 'Body')",
+      "Module-2: Harmony in the Human Being (Understanding the 'I' and the 'Body' as distinct entities, harmony in the Self, activities of the Self: Imaging, Analyzing, Selecting)",
+      "Module-3: Harmony in Family and Society (Foundational values in relationships: Trust (Vishwas) and Respect (Samman), understanding the interconnectedness of human relationships, achieving a undivided society)",
+      "Module-4: Harmony in Nature and Existence (Understanding the four orders in nature: Material, Pranic, Animal, and Human; Co-existence at all levels, ecological balance and sustainability)",
+      "Module-5: Professional Ethics (Holistic technologies, production systems, and management models; transitions toward value-based living, the role of an engineer in social and environmental well-being)"
+    ],
+    "course_outcomes": [
+      "CO1: Conduct self-exploration and realize the difference between human 'needs' and 'wants'.",
+      "CO2: Maintain harmony between the Self and the Body for mental and physical well-being.",
+      "CO3: Build meaningful and trust-based relationships within family and society.",
+      "CO4: Appreciate the coexistence in nature and commit to sustainable environmental practices.",
+      "CO5: Apply ethical principles and professional values in engineering practice and decision-making."
+    ]
+  },
+  
+  {
+    "course_code": "BCS405B",
+    "name": "Discrete Mathematical Structures",
+    "description": "A mathematical foundation for computer science focusing on logic, set theory, and graph theory. It provides the tools necessary for formal reasoning, algorithm analysis, and the modeling of complex systems like computer networks and social graphs.",
+    "prerequisites": ["Mathematics for Computer Science (BCS301)"],
+    "credits": 3,
+    "tags": [
+      "discrete mathematics",
+      "formal logic",
+      "graph theory",
+      "combinatorics",
+      "finite state machines",
+      "relations"
+    ],
+    "topics": [
+      "Module-1: Logic and Proofs (Propositional Logic, Predicates and Quantifiers, Rules of Inference, Methods of Proof, Induction and Recursion)",
+      "Module-2: Counting and Probability (The Basics of Counting, Pigeonhole Principle, Permutations and Combinations, Binomial Coefficients, Discrete Probability Basics)",
+      "Module-3: Relations and Orderings (Properties of Relations, Representing Relations, Equivalence Relations, Partial Orderings, Lattices, and Hasse Diagrams)",
+      "Module-4: Graph Theory (Graphs and Graph Models, Graph Isomorphism, Connectivity, Euler and Hamilton Paths, Shortest-Path Problems, Planar Graphs, Graph Coloring)",
+      "Module-5: Trees and Boolean Algebra (Introduction to Trees, Applications of Trees, Tree Traversal, Spanning Trees, Boolean Functions, Representing Boolean Functions, Logic Gates)"
+    ],
+    "course_outcomes": [
+      "CO1: Construct and verify mathematical arguments using formal logic and various proof techniques.",
+      "CO2: Solve complex counting problems and apply basic probability to discrete structures.",
+      "CO3: Represent and analyze binary relations, partial orders, and lattices in technical contexts.",
+      "CO4: Model real-world problems (like transportation or networking) using graph theory concepts.",
+      "CO5: Utilize trees and Boolean algebra for circuit design and data organization."
+    ]
+  },
+    
+  {
+    "course_code": "BIS402",
+    "name": "Advanced Java",
+    "description": "Explores the advanced features of Java for building enterprise-grade applications. Covers Collection Framework, Network Programming, Database Connectivity (JDBC), Servlets, and Java Server Pages (JSP), alongside modern concepts like Annotations and Lambda Expressions.",
+    "prerequisites": ["Object Oriented Programming with Java (BCS306A)"],
+    "credits": 3,
+    "tags": [
+      "java",
+      "advanced java",
+      "jdbc",
+      "servlets",
+      "jsp",
+      "collections framework",
+      "networking"
+    ],
+    "topics": [
+      "Module-1: Enumerations, Autoboxing and Annotations (Type Wrappers, Annotations basics, Built-in annotations; The Collections Framework: List, Set, Map, and specialized collection classes)",
+      "Module-2: Networking and Lambda Expressions (Networking basics: Socket programming, TCP/IP Client-Server architecture, URL class; Lambda Expression fundamentals, Functional Interfaces, Method References)",
+      "Module-3: Database Connectivity (JDBC) (JDBC Architecture, Types of Drivers, Establishing connections, Statement and PreparedStatement, ResultSet processing, Transaction management in JDBC)",
+      "Module-4: Servlets (Web application basics, Servlet Life Cycle, Handling HTTP Requests and Responses (GET/POST), Session Tracking: Cookies, Hidden Form Fields, and HttpSession)",
+      "Module-5: Java Server Pages (JSP) (Introduction to JSP, JSP Tags, Scripting elements: Scriptlets, Expressions, and Declarations, Implicit objects, Standard Actions, Connecting JSP to Databases)"
+    ],
+    "course_outcomes": [
+      "CO1: Utilize the Java Collections Framework to manage complex data structures efficiently.",
+      "CO2: Implement network-based applications using TCP/IP Sockets and URL classes.",
+      "CO3: Develop database-driven applications using JDBC for persistent data storage.",
+      "CO4: Create dynamic web components using Servlets and manage user sessions.",
+      "CO5: Design and deploy server-side web pages using Java Server Pages (JSP)."
+    ]
+  },
+
+  {
+    "course_code": "BCS405D",
+    "name": "Linear Algebra",
+    "description": "Explores the mathematical foundations of vector spaces, matrices, and linear transformations. Covers systems of linear equations, eigenvalues and eigenvectors, orthogonality, and matrix decompositions which are essential for AI, computer graphics, and data compression.",
+    "prerequisites": ["Mathematics for Computer Science (BCS301)"],
+    "credits": 3,
+    "tags": [
+      "linear algebra",
+      "matrices",
+      "vector spaces",
+      "eigenvalues",
+      "singular value decomposition",
+      "machine learning math"
+    ],
+    "topics": [
+      "Module-1: Systems of Linear Equations (Introduction to Linear Systems, Row Reduction and Echelon Forms, Vector Equations, The Matrix Equation Ax=b, Solution Sets of Linear Systems, Linear Independence)",
+      "Module-2: Vector Spaces (Definition and Examples, Subspaces, Null Spaces, Column Spaces, Linear Transformations, Bases, Dimension, and Rank)",
+      "Module-3: Eigenvalues and Eigenvectors (The Characteristic Equation, Diagonalization, Eigenvectors and Linear Transformations, Applications to Differential Equations and Dynamical Systems)",
+      "Module-4: Orthogonality and Least Squares (Inner Product, Length, and Orthogonality, Orthogonal Sets, Orthogonal Projections, The Gram-Schmidt Process, Least-Squares Problems)",
+      "Module-5: Symmetric Matrices and Quadratic Forms (Diagonalization of Symmetric Matrices, Quadratic Forms, Singular Value Decomposition (SVD), Applications to Image Processing and Statistics)"
+    ],
+    "course_outcomes": [
+      "CO1: Solve complex systems of linear equations using row reduction and matrix algebra.",
+      "CO2: Analyze the properties of vector spaces, including basis, dimension, and linear transformations.",
+      "CO3: Calculate and apply eigenvalues and eigenvectors to solve problems in dynamical systems.",
+      "CO4: Utilize orthogonality and the Gram-Schmidt process to find optimal solutions via least-squares.",
+      "CO5: Perform Singular Value Decomposition (SVD) for applications in data reduction and image processing."
+    ]
+  },
+  
+  {
+    "course_code": "BCS501",
+    "name": "Software Engineering and Project Management",
+    "description": "Introduces the software development lifecycle (SDLC) and various process models. Covers requirement engineering, software design principles, testing strategies, and project management techniques including estimation, scheduling, and risk management.",
+    "prerequisites": ["Object Oriented Programming (BCS306A/BCS405D)", "Data Structures and Applications (BCS304)"],
+    "credits": 3,
+    "tags": [
+      "software engineering",
+      "project management",
+      "sdlc",
+      "agile",
+      "testing",
+      "requirements engineering",
+      "uml"
+    ],
+    "topics": [
+      "Module-1: Introduction to Software Engineering (Software Process Models: Waterfall, Incremental, Spiral; Agile Development: Scrum, XP; Software Myths and Realities)",
+      "Module-2: Requirements Engineering (Functional and Non-functional requirements, Elicitation, Specification, Validation, Software Requirements Specification (SRS) document structure)",
+      "Module-3: Design and Modeling (Design Concepts: Abstraction, Modularity, Refinement; Architectural Design, Component-Level Design, User Interface Design, Unified Modeling Language (UML) Diagrams)",
+      "Module-4: Software Testing and Quality (Testing Strategies: Unit, Integration, System, Acceptance; White-box vs. Black-box testing; Software Quality Assurance (SQA), Six Sigma, ISO standards)",
+      "Module-5: Project Management (Project Estimation: COCOMO Model; Scheduling: Gantt Charts, PERT/CPM; Risk Management: Identification, Projection, Mitigation; Software Configuration Management)"
+    ],
+    "course_outcomes": [
+      "CO1: Select and apply the appropriate software process model (Waterfall vs. Agile) for a given project context.",
+      "CO2: Conduct requirement elicitation and draft professional SRS documents.",
+      "CO3: Design software architectures and represent them using standard UML diagrams.",
+      "CO4: Develop comprehensive test plans to ensure software quality and reliability.",
+      "CO5: Manage software projects by estimating effort, scheduling tasks, and mitigating risks."
+    ]
+  },
+  
+  {
+    "course_code": "BCS502",
+    "name": "Computer Networks",
+    "description": "Comprehensive study of the OSI and TCP/IP networking models. Covers data communication principles, physical and data link layers, network layer routing, transport layer reliability, and application layer protocols like HTTP, DNS, and SMTP.",
+    "prerequisites": ["Digital Design and Computer Organization (BCS302)", "Operating Systems (BCS303)"],
+    "credits": 4,
+    "tags": [
+      "networking",
+      "tcp/ip",
+      "osi model",
+      "routing",
+      "switching",
+      "http",
+      "dns",
+      "ip addressing"
+    ],
+    "topics": [
+      "Module-1: Introduction and Physical Layer (Network types: LAN, WAN, MAN; Network Topologies; The OSI Model vs. TCP/IP Suite; Physical Media: Guided and Unguided; Switching: Circuit vs. Packet)",
+      "Module-2: Data Link Layer (Error Detection and Correction: CRC, Checksum; Data Link Control: Framing, Flow Control, Error Control; Multiple Access Protocols: CSMA/CD, CSMA/CA, Ethernet standards)",
+      "Module-3: Network Layer (IP Addressing: IPv4 and IPv6; Subnetting and Supernetting; Routing Algorithms: Distance Vector (RIP), Link State (OSPF); ICMP, ARP, and DHCP protocols)",
+      "Module-4: Transport Layer (Process-to-Process Delivery; User Datagram Protocol (UDP); Transmission Control Protocol (TCP): Connection establishment, Flow control, Congestion control (Leaky Bucket, Token Bucket))",
+      "Module-5: Application Layer (Domain Name System (DNS); Remote Logging; Electronic Mail: SMTP, POP3, IMAP; World Wide Web: HTTP and HTTPS; Introduction to Network Security and Cryptography)"
+    ],
+    "course_outcomes": [
+      "CO1: Compare and contrast the OSI and TCP/IP reference models and their respective layers.",
+      "CO2: Apply error detection and multiple access techniques at the Data Link Layer.",
+      "CO3: Design network addressing schemes using IPv4 subnets and implement routing protocols.",
+      "CO4: Analyze the mechanisms of TCP and UDP for reliable and unreliable data transfer.",
+      "CO5: Explain the functioning of application-level protocols and the basics of network security."
+    ]
+  },
+  
+  {
+    "course_code": "BCS503",
+    "name": "Theory of Computation",
+    "description": "Explores the mathematical models of computing, including Finite Automata, Pushdown Automata, and Turing Machines. Covers the hierarchy of formal languages, regular expressions, context-free grammars, and the concepts of computability and decidability.",
+    "prerequisites": ["Mathematics for Computer Science (BCS301)", "Data Structure and Applications (BCS304)"],
+    "credits": 3,
+    "tags": [
+      "theory of computation",
+      "automata theory",
+      "formal languages",
+      "turing machines",
+      "compiler design foundation",
+      "pumping lemma"
+    ],
+    "topics": [
+      "Module-1: Finite Automata and Regular Expressions (Deterministic Finite Automata (DFA), Nondeterministic Finite Automata (NFA), Equivalence of DFA and NFA, Regular Expressions, Pumping Lemma for Regular Languages)",
+      "Module-2: Context-Free Languages and Grammars (Context-Free Grammars (CFG), Derivation Trees, Ambiguity in Grammars and Languages, Simplification of CFG, Chomsky Normal Form (CNF))",
+      "Module-3: Pushdown Automata (PDA) (Definition and Construction of PDA, Deterministic PDA, Equivalence of PDA and CFG, Pumping Lemma for Context-Free Languages)",
+      "Module-4: Turing Machines (TM) (The Turing Machine Model, Design of TMs, Variations of Turing Machines, The Church-Turing Thesis, Universal Turing Machines)",
+      "Module-5: Decidability and Complexity (Decidable and Undecidable Languages, The Halting Problem, Post’s Correspondence Problem, Introduction to Complexity Classes: P and NP)"
+    ],
+    "course_outcomes": [
+      "CO1: Design Finite Automata and Regular Expressions to recognize regular languages.",
+      "CO2: Construct Context-Free Grammars and simplify them using standard normal forms.",
+      "CO3: Develop Pushdown Automata to recognize context-free languages and understand their limitations.",
+      "CO4: Design Turing Machines to model the behavior of general-purpose computers.",
+      "CO5: Analyze the limits of computation through decidability and the Halting Problem."
+    ]
+  },
+  
+  {
+    "course_code": "BCSL504",
+    "name": "Computer Networks Laboratory",
+    "description": "Practical implementation of networking concepts. Includes socket programming in Java/C++, network simulation using tools like NS2/NS3 or Cisco Packet Tracer, and packet analysis using Wireshark. Focuses on understanding the behavior of TCP, UDP, and routing protocols.",
+    "prerequisites": ["Computer Networks (BCS502)", "Introduction to C/Java Programming"],
+    "credits": 1,
+    "tags": [
+      "networking",
+      "laboratory",
+      "socket programming",
+      "wireshark",
+      "packet tracer",
+      "tcp",
+      "udp",
+      "routing"
+    ],
+    "topics": [
+      "Experiment 1: Error Detection and Correction (Implementation of Cyclic Redundancy Check (CRC) or Hamming code to ensure data integrity)",
+      "Experiment 2: Routing Algorithms (Implementation of Distance Vector Routing or Link State Routing (Dijkstra's) to find optimal paths)",
+      "Experiment 3: Socket Programming - TCP (Client-Server communication where the server echoes messages or performs file transfers using reliable TCP connections)",
+      "Experiment 4: Socket Programming - UDP (Simple chat application or data transfer using the connectionless User Datagram Protocol)",
+      "Experiment 5: Network Simulation (Part A) (Simulating a 3-node point-to-point network with duplex links and analyzing packet drops and throughput using NS2/NS3)",
+      "Experiment 6: Network Simulation (Part B) (Simulating an Ethernet LAN with multiple nodes and measuring performance under varying traffic conditions)",
+      "Experiment 7: Packet Analysis with Wireshark (Capturing live network traffic and analyzing HTTP, DNS, TCP, and IP headers to understand protocol structure)",
+      "Experiment 8: Configuration of Network Devices (Using Cisco Packet Tracer to configure routers and switches, setting up static and dynamic routing, and VLANs)"
+    ],
+    "course_outcomes": [
+      "CO1: Implement and verify error detection and correction algorithms for data link layers.",
+      "CO2: Develop functional Client-Server applications using both TCP and UDP sockets.",
+      "CO3: Analyze the performance of network topologies using simulation software (NS2/NS3/Packet Tracer).",
+      "CO4: Examine live network traffic to interpret the fields and functions of various internet protocols.",
+      "CO5: Configure and troubleshoot physical and virtual network infrastructure including routers and switches."
+    ]
+  },
+  
+  {
+    "course_code": "BCS515B",
+    "name": "Principles of Artificial Intelligence",
+    "description": "Introduces the fundamental concepts and techniques of AI. Covers problem-solving through search, knowledge representation using logic, reasoning under uncertainty, and the basics of machine learning and natural language processing.",
+    "prerequisites": ["Design and Analysis of Algorithms (BCS401)", "Discrete Mathematical Structures (BCS405A/B)"],
+    "credits": 3,
+    "tags": [
+      "artificial intelligence",
+      "search algorithms",
+      "knowledge representation",
+      "logic",
+      "uncertainty",
+      "expert systems"
+    ],
+    "topics": [
+      "Module-1: Introduction to AI and Problem Solving (AI definitions, State-space search, Production systems, Breadth-First Search, Depth-First Search, Heuristic Search: Generate-and-Test, Hill Climbing)",
+      "Module-2: Heuristic Search Techniques (Best-First Search, A* Algorithm, Problem Reduction, AO* Algorithm, Constraint Satisfaction, Means-Ends Analysis)",
+      "Module-3: Knowledge Representation (Representing knowledge using Predicate Logic, Resolution, Natural Deduction, Semantic Nets, Frames, and Conceptual Dependency)",
+      "Module-4: Reasoning under Uncertainty (Statistical Reasoning, Probability and Bayes' Theorem, Bayesian Networks, Dampster-Shafer Theory, Introduction to Fuzzy Logic)",
+      "Module-5: Advanced Topics in AI (Game Playing: Minimax and Alpha-Beta Pruning, Planning, Expert Systems, Brief introduction to Natural Language Processing and Machine Learning applications)"
+    ],
+    "course_outcomes": [
+      "CO1: Identify and define appropriate AI search strategies for various problem domains.",
+      "CO2: Apply heuristic search techniques like A* and AO* to find optimal solutions efficiently.",
+      "CO3: Construct formal knowledge representations using logic and semantic networks.",
+      "CO4: Analyze and resolve problems involving uncertain or incomplete information using probabilistic reasoning.",
+      "CO5: Describe the architecture of expert systems and implement game-playing algorithms."
+    ]
+  },
+  
+  {
+    "course_code": "BCS515C",
+    "name": "Unix System Programming",
+    "description": "Focuses on the programming interface of the Unix operating system. Covers file I/O, process management, inter-process communication (IPC), signal handling, and the relationship between the application and the Unix kernel.",
+    "prerequisites": ["Operating Systems (BCS303)", "C Programming"],
+    "credits": 3,
+    "tags": [
+      "unix",
+      "system programming",
+      "posix",
+      "kernel",
+      "ipc",
+      "signals",
+      "processes"
+    ],
+    "topics": [
+      "Module-1: Introduction and File I/O (Unix Architecture, POSIX standards, File descriptors, System calls: open, read, write, lseek, close; File sharing and atomic operations)",
+      "Module-2: Files and Directories (Stat functions, File types, File access permissions, Hard links vs. Soft links, Directory structure and manipulation, Standard I/O library vs. System calls)",
+      "Module-3: Process Environment and Control (Process termination, Memory layout of a C program, Environment variables; Process control: fork, vfork, exit, wait, waitpid, exec functions)",
+      "Module-4: Signals (Signal concepts, Signal disposition, Unreliable signals, Interrupted system calls, Signal sets, sigaction function, sending signals with kill and raise)",
+      "Module-5: Inter-Process Communication (IPC) (Pipes, FIFO/Named Pipes, Message Queues, Semaphores, Shared Memory, Introduction to Sockets in a Unix environment)"
+    ],
+    "course_outcomes": [
+      "CO1: Describe the Unix architecture and the role of POSIX standards in system compatibility.",
+      "CO2: Utilize Unix system calls to perform efficient file and directory operations.",
+      "CO3: Manage process lifecycles, including creation, execution, and synchronization using fork and exec.",
+      "CO4: Implement robust programs that handle asynchronous signals and errors gracefully.",
+      "CO5: Develop complex systems using Inter-Process Communication (IPC) mechanisms like pipes and shared memory."
+    ]
+  },
+  
+  {
+    "course_code": "BCS515D",
+    "name": "Distributed Systems",
+    "description": "Explores the design and implementation of systems distributed across multiple networked computers. Covers communication models, synchronization, consistency, replication, fault tolerance, and distributed file systems.",
+    "prerequisites": ["Computer Networks (BCS502)", "Operating Systems (BCS303)"],
+    "credits": 3,
+    "tags": [
+      "distributed systems",
+      "scalability",
+      "fault tolerance",
+      "rpc",
+      "consistency",
+      "replication",
+      "cloud computing"
+    ],
+    "topics": [
+      "Module-1: Characterization of Distributed Systems (Examples, Resource sharing, Challenges: Heterogeneity, Openness, Security, Scalability, Failure handling, Concurrency, Transparency; Architectural Models: Client-Server, Peer-to-Peer)",
+      "Module-2: Communication and RPC (Inter-process communication, External data representation and Marshalling, Multicast communication, Remote Procedure Call (RPC), Remote Method Invocation (RMI))",
+      "Module-3: Synchronization and Coordination (Clock synchronization: Physical and Logical clocks, Lamport’s Timestamps; Distributed Mutual Exclusion; Election Algorithms: Bully and Ring algorithms)",
+      "Module-4: Consistency, Replication, and Fault Tolerance (Data-centric and Client-centric consistency models; Replica management; Fault tolerance models, Process resilience, Reliable group communication, Distributed Commit: 2PC, 3PC)",
+      "Module-5: Distributed File Systems and Case Studies (File service architecture, Sun Network File System (NFS), Andrew File System (AFS); Introduction to Google File System (GFS) or HDFS)"
+    ],
+    "course_outcomes": [
+      "CO1: Identify the core challenges and architectural models of distributed systems.",
+      "CO2: Implement communication between distributed objects using RPC and RMI mechanisms.",
+      "CO3: Apply algorithms for clock synchronization and mutual exclusion in a distributed environment.",
+      "CO4: Analyze consistency models and implement replication strategies for high availability.",
+      "CO5: Describe the design principles of large-scale distributed file systems and fault-tolerant mechanisms."
+    ]
+  },
+  
+  {
+    "course_code": "BAIL504",
+    "name": "Data Visualization Laboratory",
+    "description": "Practical session focused on using modern tools to represent data visually. Covers exploratory data analysis (EDA), static and interactive plotting, geospatial visualization, and dashboard creation using Python libraries (Matplotlib, Seaborn, Plotly) or BI tools (Tableau/PowerBI).",
+    "prerequisites": ["Principles of Artificial Intelligence (BCS515B)", "Database Management System (BCS403)"],
+    "credits": 1,
+    "tags": [
+      "data visualization",
+      "python",
+      "eda",
+      "tableau",
+      "plotly",
+      "dashboards",
+      "storytelling with data"
+    ],
+    "topics": [
+      "Experiment 1: Exploratory Data Analysis (EDA) (Using Pandas and Matplotlib to identify trends, outliers, and correlations in a raw dataset)",
+      "Experiment 2: Distribution Visualization (Implementing Histograms, KDE plots, and Box plots to understand data spread and skewness)",
+      "Experiment 3: Categorical Data Analysis (Creating Bar charts, Pie charts, and Heatmaps to compare different data segments)",
+      "Experiment 4: Time-Series Visualization (Plotting trends over time using line charts and area graphs, handling seasonality and noise)",
+      "Experiment 5: Interactive Visuals (Using Plotly or Bokeh to create charts with zoom, hover, and filter capabilities)",
+      "Experiment 6: Geospatial Mapping (Visualizing data on geographical maps using Folium or Geopandas for location-based insights)",
+      "Experiment 7: Multi-dimensional Data (Using Pair plots, Radar charts, and Parallel coordinates to visualize high-dimensional datasets)",
+      "Experiment 8: Dashboard Design (Integrating multiple visuals into a single interactive dashboard using Streamlit, Dash, or Tableau)",
+      "Experiment 9: Customizing Aesthetics (Applying themes, color palettes, and annotations to make visuals publication-ready)",
+      "Experiment 10: Final Project (Developing a comprehensive visual story for a real-world dataset like Healthcare, Finance, or Environment)"
+    ],
+    "course_outcomes": [
+      "CO1: Perform Exploratory Data Analysis to uncover hidden patterns in raw data.",
+      "CO2: Create a wide range of static and interactive charts using Python libraries.",
+      "CO3: Visualize spatial and temporal data effectively for real-world scenarios.",
+      "CO4: Design and deploy interactive dashboards for business or technical reporting.",
+      "CO5: Apply principles of 'Data Storytelling' to communicate insights to non-technical stakeholders."
+    ]
+  },
+  
+  {
+    "course_code": "BAI515A",
+    "name": "Computer Vision",
+    "description": "An introduction to the concepts and applications of computer vision. Covers image formation, image processing techniques, feature extraction, object detection, and the integration of deep learning for advanced visual recognition tasks.",
+    "prerequisites": ["Linear Algebra (BCS405D)", "Design and Analysis of Algorithms (BCS401)", "Data Visualization (BAIL504)"],
+    "credits": 3,
+    "tags": [
+      "computer vision",
+      "image processing",
+      "opencv",
+      "cnn",
+      "feature extraction",
+      "object detection",
+      "pattern recognition"
+    ],
+    "topics": [
+      "Module-1: Introduction and Image Formation (The digital image, Geometric primitives, Transformations, Photometric image formation: Reflectance and Shading, The digital camera model)",
+      "Module-2: Image Processing Foundations (Point operators, Linear filtering, Neighborhood operators, Fourier transforms, Pyramids and wavelets, Geometric transformations: Warping and Morphing)",
+      "Module-3: Feature Detection and Matching (Edges: Canny edge detection, Lines: Hough transform, Interest points and corners: Harris corner detector, SIFT, SURF, HOG (Histogram of Oriented Gradients))",
+      "Module-4: Image Segmentation and Motion (Grouping and Fitting: K-means, Mean Shift; Region-based segmentation; Motion estimation: Optical flow, Structure from motion)",
+      "Module-5: Object Recognition and Deep Learning (Pattern recognition basics, Object detection: Haar Cascades, Introduction to Convolutional Neural Networks (CNNs), Applications: Face detection, Medical imaging, and Autonomous navigation)"
+    ],
+    "course_outcomes": [
+      "CO1: Explain the fundamental principles of image formation and digital camera mechanics.",
+      "CO2: Apply image processing filters and operators to enhance and transform digital images.",
+      "CO3: Implement feature extraction algorithms to identify edges, shapes, and textures in images.",
+      "CO4: Analyze motion and segment images into meaningful regions or objects.",
+      "CO5: Develop basic object recognition systems using traditional and deep learning approaches."
+    ]
+  },
+  
+  {
+    "course_code": "BRMK557",
+    "name": "Intellectual Property Rights",
+    "description": "Introduces the legal frameworks used to protect intellectual creations. Covers the fundamentals of Patents, Trademarks, Copyrights, and Industrial Designs, alongside the process of filing for protection and the legalities of infringement.",
+    "prerequisites": [],
+    "credits": 1,
+    "tags": [
+      "ipr",
+      "patents",
+      "copyright",
+      "trademarks",
+      "intellectual property",
+      "innovation",
+      "legal"
+    ],
+    "topics": [
+      "Module-1: Introduction to IPR (Concept and nature of Intellectual Property, types of IP, importance of IPR in the modern economy, international treaties like TRIPS and WIPO)",
+      "Module-2: Patents (What is patentable?, Novelty, Inventive step, and Industrial applicability; The patent filing process in India, Rights of a patentee, Patent infringement and remedies)",
+      "Module-3: Copyrights and Related Rights (Subject matter of copyright: Literary, artistic, musical, and dramatic works; Ownership and transfer of copyright, Fair Use doctrine, protection of Computer Software as a literary work)",
+      "Module-4: Trademarks and Industrial Designs (Purpose of Trademarks, registration process, distinctive marks; Industrial Designs: Protection of the aesthetic appearance of products, criteria for registration)",
+      "Module-5: Trade Secrets and Emerging Issues (Protection of confidential business information; IPR in the digital age: AI-generated content, open-source licensing, and database protection)"
+    ],
+    "course_outcomes": [
+      "CO1: Distinguish between the various types of intellectual property and their legal protections.",
+      "CO2: Navigate the patent application process and evaluate the patentability of an invention.",
+      "CO3: Apply copyright laws to protect software, creative content, and research publications.",
+      "CO4: Identify the importance of trademarks and designs in building brand identity and product value.",
+      "CO5: Discuss the ethical and legal challenges of IP in the context of emerging technologies like AI."
+    ]
+  },
+  
+  {
+    "course_code": "BCS601",
+    "name": "Cloud Computing",
+    "description": "Introduces the fundamentals of cloud computing, including service models (IaaS, PaaS, SaaS) and deployment models. Focuses on virtualization, cloud security, resource management, and the design of scalable distributed applications.",
+    "prerequisites": ["Computer Networks (BCS502)", "Operating Systems (BCS303)", "Distributed Systems (BCS515D)"],
+    "credits": 3,
+    "tags": [
+      "cloud computing",
+      "virtualization",
+      "aws",
+      "azure",
+      "serverless",
+      "microservices",
+      "saas"
+    ],
+    "topics": [
+      "Module-1: Introduction to Cloud Computing (Defining Cloud Computing, Characteristics, Benefits and Challenges, Historical perspective, Cloud computing stack)",
+      "Module-2: Cloud Service and Deployment Models (Service Models: Infrastructure as a Service (IaaS), Platform as a Service (PaaS), Software as a Service (SaaS); Deployment Models: Public, Private, Hybrid, and Community Clouds)",
+      "Module-3: Virtualization (Introduction to Virtualization, Hypervisors: Type 1 and Type 2, Full vs. Para-virtualization, Containerization vs. Virtual Machines, Docker and Kubernetes basics)",
+      "Module-4: Cloud Infrastructure and Resource Management (Cloud Data Centers, Resource Provisioning, Load Balancing, Cloud Storage systems: Block, File, and Object storage (S3))",
+      "Module-5: Cloud Security and Future Trends (Cloud Security Risks, Identity and Access Management (IAM), Encryption in the cloud, Serverless Computing, Edge Computing, and Internet of Things (IoT) integration)"
+    ],
+    "course_outcomes": [
+      "CO1: Explain the core concepts, advantages, and limitations of cloud computing environments.",
+      "CO2: Evaluate and choose appropriate cloud service and deployment models for specific business needs.",
+      "CO3: Analyze virtualization technologies and their role in resource isolation and utilization.",
+      "CO4: Design scalable cloud architectures using effective load balancing and storage strategies.",
+      "CO5: Identify security threats in the cloud and implement basic mitigation strategies using IAM and encryption."
+    ]
+  },
+  
+  {
+    "course_code": "BCS602",
+    "name": "Machine Learning",
+    "description": "Comprehensive introduction to the machine learning pipeline, from data preprocessing to model evaluation. Covers supervised learning (regression, classification), unsupervised learning (clustering, dimensionality reduction), and ensemble methods.",
+    "prerequisites": ["Linear Algebra (BCS405D)", "Design and Analysis of Algorithms (BCS401)", "Principles of Artificial Intelligence (BCS515B)"],
+    "credits": 4,
+    "tags": [
+      "machine learning",
+      "regression",
+      "classification",
+      "clustering",
+      "neural networks",
+      "svm",
+      "decision trees"
+    ],
+    "topics": [
+      "Module-1: Introduction to Machine Learning (Learning problems, Designing a learning system, Perspectives and issues; Concept Learning and the General-to-Specific Ordering; Data Preprocessing: Handling missing data, Feature scaling)",
+      "Module-2: Supervised Learning - Regression and Decision Trees (Linear Regression, Multiple Regression, Gradient Descent; Decision Tree Learning: ID3 Algorithm, Information Gain, Entropy, Overfitting and Pruning)",
+      "Module-3: Supervised Learning - Classification (Artificial Neural Networks: Perceptrons, Multilayer Networks and Backpropagation; Bayesian Learning: Naive Bayes Classifier, Bayesian Belief Networks; Support Vector Machines (SVM))",
+      "Module-4: Unsupervised Learning (Clustering: K-Means, Hierarchical Clustering; Principal Component Analysis (PCA) for Dimensionality Reduction; Association Rule Learning: Apriori Algorithm)",
+      "Module-5: Evaluating and Improving Models (Evaluating Hypothesis: Cross-validation, Confusion Matrix, Precision, Recall, F1-Score; Ensemble Methods: Bagging, Boosting, Random Forests; Introduction to Deep Learning and Reinforcement Learning)"
+    ],
+    "course_outcomes": [
+      "CO1: Formulate a machine learning problem and identify the appropriate learning paradigm.",
+      "CO2: Implement and optimize regression models and decision trees for predictive tasks.",
+      "CO3: Develop and train neural networks and probabilistic classifiers like Naive Bayes.",
+      "CO4: Utilize unsupervised learning techniques to find hidden structures in unlabeled data.",
+      "CO5: Evaluate model performance using robust statistical metrics and improve accuracy through ensemble techniques."
+    ]
+  },
+  
+  {
+    "course_code": "BCSL606",
+    "name": "Machine Learning Laboratory",
+    "description": "Practical implementation of fundamental machine learning algorithms. Covers data preprocessing, supervised learning (Regression, SVM, Decision Trees, MLP), unsupervised learning (K-Means), and ensemble techniques using Python.",
+    "prerequisites": ["Machine Learning Theory (BCS602)", "Python Programming"],
+    "credits": 1,
+    "tags": [
+      "machine learning",
+      "python",
+      "scikit-learn",
+      "data science",
+      "laboratory",
+      "model evaluation"
+    ],
+    "topics": [
+      "Experiment 1: Data Preprocessing (Handling missing values using Imputation, Feature Scaling with MinMaxScaler and StandardScaler, Label Encoding for categorical data)",
+      "Experiment 2: Simple and Multiple Linear Regression (Implementing regression models to predict continuous values and evaluating using Mean Squared Error)",
+      "Experiment 3: Decision Tree Classifier (Implementing the ID3 or CART algorithm, visualizing the tree structure, and analyzing the impact of pruning)",
+      "Experiment 4: Support Vector Machines (SVM) (Applying SVM for binary and multi-class classification using different kernels like Linear, Polynomial, and RBF)",
+      "Experiment 5: Naive Bayes Classifier (Building a probabilistic classifier for text classification or medical diagnosis based on Bayes' Theorem)",
+      "Experiment 6: K-Nearest Neighbors (KNN) (Implementing the proximity-based classifier and finding the optimal 'K' value using the Elbow method)",
+      "Experiment 7: K-Means Clustering (Implementing unsupervised grouping of data and visualizing clusters and centroids)",
+      "Experiment 8: Multilayer Perceptron (MLP) (Designing a basic Neural Network with backpropagation for pattern recognition)",
+      "Experiment 9: Ensemble Learning (Implementing Random Forest or Boosting techniques to improve prediction accuracy)",
+      "Experiment 10: Model Evaluation Metrics (Generating Confusion Matrices, calculating Precision, Recall, and F1-Score, and plotting ROC curves)"
+    ],
+    "course_outcomes": [
+      "CO1: Clean and transform raw datasets into a format suitable for machine learning models.",
+      "CO2: Implement and tune supervised learning algorithms for classification and regression tasks.",
+      "CO3: Apply unsupervised learning techniques to discover natural groupings in data.",
+      "CO4: Build and train artificial neural networks for complex pattern recognition.",
+      "CO5: Quantitatively evaluate model performance using statistical metrics and visualization tools."
+    ]
+  },
+  
+  {
+    "course_code": "BCS613A",
+    "name": "Blockchain Technology",
+    "description": "Explores the fundamental concepts of distributed ledger technology. Covers cryptographic hashing, digital signatures, consensus algorithms (PoW, PoS), smart contracts, and the architecture of platforms like Bitcoin and Ethereum.",
+    "prerequisites": ["Computer Networks (BCS502)", "Information Security", "Cryptography basics"],
+    "credits": 3,
+    "tags": [
+      "blockchain",
+      "cryptography",
+      "smart contracts",
+      "ethereum",
+      "bitcoin",
+      "decentralization",
+      "consensus"
+    ],
+    "topics": [
+      "Module-1: Introduction to Blockchain (Distributed Ledger Technology (DLT), Centralized vs. Decentralized systems, History of Bitcoin, Blockchain structure: Blocks, Chaining, and Merkle Trees)",
+      "Module-2: Cryptographic Foundations (Cryptographic Hash Functions: SHA-256, Properties of hashes, Digital Signatures, Public Key Infrastructure (PKI), Elliptic Curve Cryptography (ECC))",
+      "Module-3: Consensus Mechanisms (The Byzantine Generals Problem, Proof of Work (PoW), Proof of Stake (PoS), Delegated PoS, Practical Byzantine Fault Tolerance (PBFT), Mining and Incentives)",
+      "Module-4: Smart Contracts and Ethereum (Ethereum Virtual Machine (EVM), Introduction to Solidity programming, Gas fees, Decentralized Applications (DApps), Decentralized Autonomous Organizations (DAO))",
+      "Module-5: Applications and Future Trends (Blockchain in Supply Chain, Healthcare, and Finance; Hyperledger Fabric for Enterprise; Scaling solutions: Sharding and Layer-2; Web3 and Metaverse)"
+    ],
+    "course_outcomes": [
+      "CO1: Explain the structural components and decentralized nature of blockchain technology.",
+      "CO2: Apply cryptographic principles to ensure data integrity and security within a ledger.",
+      "CO3: Analyze and compare different consensus algorithms and their impact on network security and scalability.",
+      "CO4: Design and develop basic smart contracts using Solidity for decentralized applications.",
+      "CO5: Identify and evaluate real-world use cases for blockchain across various industrial sectors."
+    ]
+  },
+  
+  {
+    "course_code": "BCS613B",
+    "name": "Computer Vision",
+    "description": "Explores advanced techniques for extracting meaningful information from digital images and videos. Focuses on the integration of Deep Learning (CNNs), object detection frameworks (YOLO, R-CNN), and real-world applications in medical imaging and autonomous systems.",
+    "prerequisites": ["Machine Learning (BCS602)", "Linear Algebra (BCS405D)", "Design and Analysis of Algorithms (BCS401)"],
+    "credits": 3,
+    "tags": [
+      "computer vision",
+      "deep learning",
+      "cnn",
+      "object detection",
+      "segmentation",
+      "opencv",
+      "pytorch/tensorflow"
+    ],
+    "topics": [
+      "Module-1: Review of Image Processing and Foundations (Digital image fundamentals, Spatial and Frequency domain filtering, Image restoration, Color image processing)",
+      "Module-2: Feature Extraction and Image Descriptors (Texture analysis, Shape descriptors, Local features: SIFT, SURF, and BRIEF; Principal Component Analysis (PCA) for vision)",
+      "Module-3: Deep Learning for Vision (Convolutional Neural Networks (CNNs) architecture: Convolution, Pooling, and Fully Connected layers; Popular architectures: AlexNet, VGG, ResNet)",
+      "Module-4: Object Detection and Recognition (Region-based CNNs (R-CNN, Fast R-CNN, Faster R-CNN), YOLO (You Only Look Once) framework, SSD (Single Shot MultiBox Detector), Face recognition techniques)",
+      "Module-5: Advanced Segmentation and Applications (Semantic vs. Instance segmentation, U-Net architecture, Image captioning, Vision in autonomous vehicles, Medical image analysis)"
+    ],
+    "course_outcomes": [
+      "CO1: Apply advanced image restoration and enhancement techniques in the frequency domain.",
+      "CO2: Evaluate and implement robust feature descriptors for image matching and retrieval.",
+      "CO3: Design and train Convolutional Neural Networks for image classification tasks.",
+      "CO4: Implement state-of-the-art object detection frameworks like YOLO for real-time applications.",
+      "CO5: Develop specialized vision systems for domains such as healthcare and robotics."
+    ]
+  },
+  
+  {
+    "course_code": "BIS613B",
+    "name": "Internet of Things",
+    "description": "Explores the end-to-end architecture of IoT systems. Covers sensor technology, communication protocols (MQTT, CoAP), microcontrollers (Arduino, Raspberry Pi), cloud integration, and the security challenges of connecting physical devices to the internet.",
+    "prerequisites": ["Computer Networks (BCS502)", "Operating Systems (BCS303)", "Microcontrollers and Embedded Systems"],
+    "credits": 3,
+    "tags": [
+      "iot",
+      "embedded systems",
+      "mqtt",
+      "sensors",
+      "raspberry pi",
+      "edge computing",
+      "smart systems"
+    ],
+    "topics": [
+      "Module-1: Introduction to IoT (Definition, Characteristics, Physical and Logical design, IoT enabling technologies, IoT levels and deployment templates)",
+      "Module-2: IoT Hardware and Platforms (Introduction to Arduino and Raspberry Pi, Sensor types: Temperature, Humidity, Motion, Gas; Actuators: Motors, Relays; Programming GPIO pins)",
+      "Module-3: IoT Networking and Protocols (Link Layer: 802.15.4, ZigBee, LoRaWAN; Network Layer: IPv6, 6LoWPAN; Application Layer Protocols: MQTT, CoAP, XMPP, AMQP)",
+      "Module-4: IoT Data Analytics and Cloud (Cloud computing for IoT, Data collection and storage, Real-time data processing, IoT to Cloud communication, Using platforms like AWS IoT or ThingsBoard)",
+      "Module-5: Security, Ethics, and Applications (IoT Security challenges, Privacy issues, Case studies: Smart Home, Smart Cities, Agriculture 4.0 (Smart Farming), Industrial IoT (IIoT))"
+    ],
+    "course_outcomes": [
+      "CO1: Design the basic architectural framework for a distributed IoT system.",
+      "CO2: Interface various sensors and actuators with microcontrollers like Raspberry Pi or Arduino.",
+      "CO3: Select and implement appropriate communication protocols based on power and bandwidth constraints.",
+      "CO4: Integrate IoT edge devices with cloud platforms for data storage and analysis.",
+      "CO5: Develop secure and ethical IoT solutions for real-world domains such as agriculture and healthcare."
+    ]
+  },
+  
+  {
+    "course_code": "BAIL657C",
+    "name": "Generative AI Laboratory",
+    "description": "Practical hands-on course covering the lifecycle of Generative AI applications. Includes working with word embeddings, prompt engineering, Hugging Face transformers, and building functional AI agents like chatbots using frameworks such as LangChain.",
+    "prerequisites": ["Machine Learning (BCS602)", "Natural Language Processing basics", "Python Programming"],
+    "credits": 1,
+    "tags": [
+      "generative ai",
+      "llm",
+      "transformers",
+      "langchain",
+      "hugging face",
+      "prompt engineering",
+      "nlp"
+    ],
+    "topics": [
+      "Experiment 1 & 2: Word Embeddings (Exploring pre-trained vectors, vector arithmetic, and using PCA/t-SNE to visualize semantic clusters in a 2D space)",
+      "Experiment 3: Domain-Specific Training (Training custom Word2Vec models on specialized datasets like medical or legal corpora to capture unique semantics)",
+      "Experiment 4 & 5: Prompt Engineering (Using embeddings to retrieve similar words and 'enrich' prompts; evaluating how prompt context affects model output quality)",
+      "Experiment 6 & 7: Transformer Pipelines (Implementing Hugging Face pipelines for Sentiment Analysis and Text Summarization using pre-trained models)",
+      "Experiment 8 & 9: LangChain & API Integration (Setting up LangChain with Cohere/OpenAI APIs, creating prompt templates, and parsing structured data from web sources)",
+      "Experiment 10: RAG-based Chatbot (Building a Retrieval-Augmented Generation chatbot, such as a legal advisor for the IPC, using document loaders and vector stores)"
+    ],
+    "course_outcomes": [
+      "CO1: Manipulate and visualize high-dimensional word embeddings to understand semantic relationships.",
+      "CO2: Design and optimize prompts using techniques like 'Few-Shot' and 'Enrichment' to guide Generative AI outputs.",
+      "CO3: Deploy pre-trained transformer models for various NLP tasks via the Hugging Face ecosystem.",
+      "CO4: Integrate LLMs into application workflows using LangChain for automated data retrieval and parsing.",
+      "CO5: Develop and evaluate a functional RAG-based chatbot capable of context-aware conversations."
+    ]
+  },
+  
+  {
+    "course_code": "BCSL657D",
+    "name": "DevOps Laboratory",
+    "description": "Practical course on the tools and practices used to automate software delivery. Covers version control, continuous integration/continuous deployment (CI/CD) pipelines, containerization, and infrastructure as code.",
+    "prerequisites": ["Cloud Computing (BCS601)", "Software Engineering (BCS501)", "Linux basics"],
+    "credits": 1,
+    "tags": [
+      "devops",
+      "git",
+      "jenkins",
+      "docker",
+      "ci/cd",
+      "automation",
+      "kubernetes"
+    ],
+    "topics": [
+      "Experiment 1: Advanced Version Control (Branching strategies in Git, resolving merge conflicts, and using Git Hooks for pre-commit checks)",
+      "Experiment 2: Containerization with Docker (Creating Dockerfiles, managing images, and using Docker Compose to orchestrate multi-container applications)",
+      "Experiment 3: Continuous Integration (CI) (Setting up Jenkins or GitHub Actions to automatically build and test code upon every push)",
+      "Experiment 4: Continuous Deployment (CD) (Automating the deployment of containerized applications to cloud platforms or local servers)",
+      "Experiment 5: Build Tools (Configuring Maven or Gradle for Java projects and handling dependency management)",
+      "Experiment 6: Infrastructure as Code (IaC) (Introduction to Terraform or Ansible for automating server setup and configuration)",
+      "Experiment 7: Static Code Analysis (Integrating tools like SonarQube into the pipeline to check for code quality and security vulnerabilities)",
+      "Experiment 8: Monitoring and Logging (Setting up basic monitoring using tools like Prometheus or Grafana to track application health)"
+    ],
+    "course_outcomes": [
+      "CO1: Master advanced Git workflows to manage collaborative software development.",
+      "CO2: Package applications and their dependencies into portable Docker containers.",
+      "CO3: Design and implement automated CI/CD pipelines to reduce manual intervention.",
+      "CO4: Automate infrastructure provisioning using Infrastructure as Code (IaC) principles.",
+      "CO5: Monitor application performance and ensure high quality through automated static analysis."
+    ]
+  },
+  
+  {
+    "course_code": "BME654A",
+    "name": "Project Management",
+    "description": "Covers the complete project lifecycle from inception to termination. Focuses on project selection strategies, Work Breakdown Structures (WBS), resource leveling, risk management, and quantitative scheduling techniques like PERT and CPM.",
+    "prerequisites": ["Management and Entrepreneurship (BCS403/Equivalent)"],
+    "credits": 3,
+    "tags": [
+      "project management",
+      "pert",
+      "cpm",
+      "wbs",
+      "risk management",
+      "gantt chart",
+      "strategic planning"
+    ],
+    "topics": [
+      "Module-1: Introduction and Project Selection (Definition and characteristics of projects; Project Life Cycle phases; Strategic planning process; Project selection methods: Financial models (NPV, IRR) and Scoring models)",
+      "Module-2: Project Planning and Scheduling (Defining project scope; Work Breakdown Structure (WBS); Scheduling basics; Gantt Charts; Network construction rules; Monte Carlo simulation basics)",
+      "Module-3: Resourcing and Risk Management (Abilities needed for resourcing; Cost planning, estimating, and budgeting; Risk identification and analysis; Project quality tools; Project kick-off)",
+      "Module-4: Execution and Progress (Project supply chain management; Contract types; Partnering and collaboration; Knowledge Management; Project Balanced Scorecard; Finishing and terminating the project)",
+      "Module-5: Network Analysis (Critical Path Method (CPM): Floats and slack; Program Evaluation and Review Technique (PERT): Expected duration, variance, and probability of completion; Project Crashing)"
+    ],
+    "course_outcomes": [
+      "CO1: Explain the project lifecycle and apply strategic models to select high-value projects.",
+      "CO2: Develop a comprehensive Work Breakdown Structure and initial project schedules.",
+      "CO3: Plan resources, estimate costs, and develop risk mitigation strategies.",
+      "CO4: Manage the project execution phase using supply chain and quality tools.",
+      "CO5: Perform quantitative network analysis using PERT/CPM to predict and optimize project completion times."
+    ]
+  },
+  
+  {
+    "course_code": "BCS701",
+    "name": "Internet of Things",
+    "description": "Comprehensive study of IoT architecture, design methodologies, and physical devices. Covers the integration of sensors, microcontrollers (Arduino/Raspberry Pi), communication protocols, and data analytics using big data frameworks.",
+    "prerequisites": ["Computer Networks (BCS502)", "Cloud Computing (BCS601)", "Microcontrollers (BCS402)"],
+    "credits": 4,
+    "tags": [
+      "iot",
+      "m2m",
+      "raspberry pi",
+      "arduino",
+      "python",
+      "big data",
+      "hadoop",
+      "sdn"
+    ],
+    "topics": [
+      "Module-1: Introduction to IoT (Physical and Logical Design of IoT; IoT Enabling Technologies; IoT Levels & Deployment Templates: Level-1 to Level-6 architectures)",
+      "Module-2: IoT and M2M (Introduction to Machine-to-Machine (M2M) communication; SDN and NFV for IoT; IoT System Management with NETCONF-YANG and SNMP)",
+      "Module-3: IoT Platforms Design Methodology (IoT Design Methodology steps; Case Study on Weather Monitoring; Logical Design using Python: Data types, Control flow, and Classes)",
+      "Module-4: IoT Physical Devices & Endpoints (What is an IoT Device; Raspberry Pi board details; Linux on Raspberry Pi; Interfaces and Programming with Python; Case Studies: Home Automation, Smart Cities, Agriculture)",
+      "Module-5: Data Analytics for IoT (Introduction to Big Data; Apache Hadoop: MapReduce, YARN, HDFS; Apache Spark and Storm for real-time data analysis)"
+    ],
+    "course_outcomes": [
+      "CO1: Describe the evolution of IoT, its networking components, and addressing strategies.",
+      "CO2: Analyze various sensing devices, actuator types, and communication models.",
+      "CO3: Design IoT systems using a structured methodology and Python-based logical design.",
+      "CO4: Implement IoT solutions by programming physical devices like Raspberry Pi.",
+      "CO5: Utilize big data frameworks like Hadoop and Spark to perform analytics on IoT-generated data."
+    ]
+  },
+  
+  {
+    "course_code": "BIS701",
+    "name": "Big Data Analytics",
+    "description": "Explores the architectures and tools required to process and analyze massive datasets. Covers the Hadoop ecosystem (HDFS, MapReduce, Hive, Pig), NoSQL databases like MongoDB, and large-scale data processing with Apache Spark, integrated with machine learning applications.",
+    "prerequisites": ["Database Management Systems (BCS403)", "Machine Learning (BCS602)", "Computer Networks (BCS502)"],
+    "credits": 4,
+    "tags": [
+      "big data",
+      "hadoop",
+      "mapreduce",
+      "nosql",
+      "mongodb",
+      "hive",
+      "pig",
+      "spark",
+      "data engineering"
+    ],
+    "topics": [
+      "Module-1: Introduction to Big Data (Characteristics and Evolution of Big Data; Traditional BI vs. Big Data; Hadoop environment; Introduction to MapReduce: Mapper, Reducer, Combiner, Partitioner)",
+      "Module-2: Hadoop Ecosystem & NoSQL (HDFS architecture and commands; Introduction to NoSQL; MongoDB: Architecture, Data types, and CRUD operations; High availability and Sharding)",
+      "Module-3: Advanced MapReduce & Programming (MapReduce workflows; Matrix Multiplication and Weather Data mining programs; Debugging MapReduce; Introduction to Apache Pig and Pig Latin)",
+      "Module-4: Data Warehousing with Hive (Hive Architecture and Data types; Hive Query Language (HQL); RC File implementation; User Defined Functions (UDFs); Comparison of Pig vs. Hive)",
+      "Module-5: Real-time Analytics with Spark (Introduction to Apache Spark; Data analysis with Spark RDDs; Text, Web Content, and Link Analytics; Machine Learning applications in Big Data contexts)"
+    ],
+    "course_outcomes": [
+      "CO1: Explain the concepts of Big Data and the fundamental architecture of the Hadoop framework.",
+      "CO2: Design and implement MapReduce programs for complex data processing tasks like matrix multiplication.",
+      "CO3: Utilize NoSQL databases like MongoDB for storing and managing unstructured data at scale.",
+      "CO4: Develop data flow scripts in Pig and perform data warehousing operations using HiveQL.",
+      "CO5: Apply Apache Spark for real-time data analysis and implement large-scale machine learning solutions."
+    ]
+  },
+  
+  {
+    "course_code": "BCS702",
+    "name": "Parallel Computing",
+    "description": "Introduction to the architectures and programming models for parallel systems. Covers parallel algorithm design, performance analysis (Amdahl's Law), and hands-on programming with OpenMP for shared memory and MPI for distributed memory systems.",
+    "prerequisites": ["Computer Organization and Architecture (BCS302)", "Design and Analysis of Algorithms (BCS401)", "Operating Systems (BCS303)"],
+    "credits": 4,
+    "tags": [
+      "parallel computing",
+      "openmp",
+      "mpi",
+      "multicore",
+      "distributed memory",
+      "shared memory",
+      "hpc"
+    ],
+    "topics": [
+      "Module-1: Introduction and Architectures (Motivations for parallel computing; Flynn’s Taxonomy: SISD, SIMD, MISD, MIMD; Hardware architectures: Multi-core, GPU, Cluster computing)",
+      "Module-2: Parallel Algorithm Design (Foster’s Design Methodology: Partitioning, Communication, Agglomeration, and Mapping; Decomposition techniques: Task vs. Data decomposition)",
+      "Module-3: Performance Analysis (Speedup, Efficiency, and Scalability; Amdahl’s Law vs. Gustafson’s Law; Overheads in parallel systems: Contention, Latency, and Synchronization)",
+      "Module-4: Shared Memory Programming with OpenMP (Thread-based parallelism; Directives: parallel, for, sections; Data environment: Shared vs. Private variables; Synchronization: Critical, Atomic, Barrier)",
+      "Module-5: Distributed Memory Programming with MPI (Process-based parallelism; Point-to-point communication: send, recv; Collective communication: Broadcast, Scatter, Gather, Reduce; Writing and debugging MPI programs)"
+    ],
+    "course_outcomes": [
+      "CO1: Classify parallel architectures based on memory organization and instruction streams.",
+      "CO2: Apply formal design methodologies to transform serial algorithms into parallel versions.",
+      "CO3: Quantify the performance gains and limitations of parallel systems using analytical laws.",
+      "CO4: Develop and optimize multi-threaded applications using the OpenMP API.",
+      "CO5: Create scalable distributed applications using the Message Passing Interface (MPI) standard."
+    ]
+  },
+  
+  {
+    "course_code": "BCS703",
+    "name": "Cryptography and Network Security",
+    "description": "Explores the principles and practice of cryptography and network security. Covers classical and modern encryption techniques, public-key infrastructure, hash functions, digital signatures, and security protocols for email, IP, and the web.",
+    "prerequisites": ["Computer Networks (BCS502)", "Discrete Mathematical Structures (BCS405A/B)"],
+    "credits": 4,
+    "tags": [
+      "cryptography",
+      "network security",
+      "encryption",
+      "aes",
+      "rsa",
+      "digital signatures",
+      "firewalls",
+      "cybersecurity"
+    ],
+    "topics": [
+      "Module-1: Introduction and Classical Encryption (Security Goals: Confidentiality, Integrity, Availability; Security Attacks, Services, and Mechanisms; Classical techniques: Caesar, Playfair, Hill Cipher, Transposition techniques)",
+      "Module-2: Symmetric Key Cryptography (Block Ciphers and Data Encryption Standard (DES); Advanced Encryption Standard (AES) structure and transformation functions; Block cipher modes of operation: ECB, CBC, CFB, OFB, CTR)",
+      "Module-3: Public Key Cryptography and Hash Functions (Number Theory basics: Prime numbers, Fermat’s and Euler’s Theorems; RSA Algorithm; Diffie-Hellman Key Exchange; Cryptographic Hash Functions: SHA-512; Message Authentication Codes (MAC))",
+      "Module-4: Digital Signatures and Key Management (Digital Signature Standard (DSS); User Authentication: Kerberos, X.509 Certificates; Public Key Infrastructure (PKI); Trust models)",
+      "Module-5: Network and Internet Security (Transport Level Security: SSL/TLS; Email Security: PGP and S/MIME; IP Security (IPsec) architecture; Firewalls: Packet filtering, Stateful inspection, Application gateways; Intrusion Detection Systems (IDS))"
+    ],
+    "course_outcomes": [
+      "CO1: Classify different security attacks and apply classical encryption techniques to secure data.",
+      "CO2: Implement and analyze modern symmetric key algorithms like AES for high-speed data encryption.",
+      "CO3: Utilize public-key cryptography and RSA to solve key distribution and non-repudiation problems.",
+      "CO4: Generate and verify digital signatures and message authentication codes to ensure data integrity.",
+      "CO5: Design secure network architectures using firewalls, IDS, and encrypted transport protocols like SSL/TLS."
+    ]
+  },
+  
+  {
+    "course_code": "BCS714A",
+    "name": "Deep Learning",
+    "description": "An advanced course on deep neural networks. Covers the mathematical foundations of backpropagation, specialized architectures like CNNs for vision, RNNs/LSTMs for sequences, and modern generative models including GANs and Autoencoders.",
+    "prerequisites": ["Machine Learning (BCS602)", "Linear Algebra (BCS405D)", "Probability and Statistics"],
+    "credits": 3,
+    "tags": [
+      "deep learning",
+      "neural networks",
+      "cnn",
+      "rnn",
+      "backpropagation",
+      "tensorflow",
+      "pytorch",
+      "gan"
+    ],
+    "topics": [
+      "Module-1: Introduction to Deep Learning (Biological vs. Artificial Neurons; Perceptrons and Multi-layer Perceptrons; Activation Functions: Sigmoid, Tanh, ReLU; Loss Functions and Optimization: Gradient Descent, Adam, RMSProp)",
+      "Module-2: Training Deep Networks (The Backpropagation algorithm; Vanishing and Exploding Gradient problems; Regularization techniques: L1/L2, Dropout, Batch Normalization; Hyperparameter tuning)",
+      "Module-3: Convolutional Neural Networks (CNNs) (Convolution operation and Filters; Pooling layers; Architecture of famous CNNs: LeNet, VGG, ResNet; Applications in Object Recognition and Image Segmentation)",
+      "Module-4: Recurrent Neural Networks (RNNs) (Sequential data modeling; Unfolding computational graphs; Long Short-Term Memory (LSTM) networks; Gated Recurrent Units (GRU); Applications in Language Modeling and Time-series prediction)",
+      "Module-5: Generative and Advanced Models (Autoencoders and Variational Autoencoders (VAEs); Generative Adversarial Networks (GANs): Generator and Discriminator dynamics; Introduction to Attention mechanisms and Transformers)"
+    ],
+    "course_outcomes": [
+      "CO1: Analyze the fundamental components and mathematical foundations of deep neural networks.",
+      "CO2: Implement and optimize backpropagation to train multi-layer neural architectures.",
+      "CO3: Design and deploy Convolutional Neural Networks for complex visual recognition tasks.",
+      "CO4: Utilize Recurrent Neural Networks to process and predict sequential or temporal data.",
+      "CO5: Explore and evaluate generative models and advanced architectures like GANs for creative AI applications."
+    ]
+  },
+  
+  {
+    "course_code": "BCS714B",
+    "name": "Natural Language Processing",
+    "description": "Introduction to the theory and practice of NLP. Covers text preprocessing, language modeling, syntactic and semantic analysis, and advanced topics like sequence-to-sequence models and the Transformer architecture.",
+    "prerequisites": ["Machine Learning (BCS602)", "Deep Learning (BCS714A)", "Python Programming"],
+    "credits": 3,
+    "tags": [
+      "nlp",
+      "linguistics",
+      "transformers",
+      "bert",
+      "text mining",
+      "sentiment analysis",
+      "language models"
+    ],
+    "topics": [
+      "Module-1: Introduction and Text Processing (History and challenges of NLP; Regular expressions; Tokenization, Lemmatization, and Stemming; Word counts and Zipf’s Law; Edit Distance algorithms)",
+      "Module-2: Language Modeling and POS Tagging (N-grams and smoothing; Part-of-Speech (POS) tagging: Hidden Markov Models (HMM) and Viterbi algorithm; Rule-based vs. Stochastic tagging)",
+      "Module-3: Vector Semantics and Embeddings (Lexical semantics; TF-IDF; Word2Vec (Skip-gram and CBOW); Global Vectors (GloVe); Measuring semantic similarity with Cosine Similarity)",
+      "Module-4: Syntactic and Semantic Analysis (Context-Free Grammars (CFG); Dependency Parsing vs. Constituency Parsing; Word Sense Disambiguation (WSD); Named Entity Recognition (NER))",
+      "Module-5: Sequence Models and Transformers (Encoder-Decoder architectures; Attention mechanism; The Transformer model; Transfer Learning with BERT, GPT, and T5; Ethical considerations in NLP)"
+    ],
+    "course_outcomes": [
+      "CO1: Apply fundamental text preprocessing techniques to clean and normalize raw text data.",
+      "CO2: Build and evaluate N-gram language models and POS taggers for linguistic analysis.",
+      "CO3: Utilize vector space models and word embeddings to represent semantic relationships between words.",
+      "CO4: Implement parsing algorithms to analyze the grammatical structure and meaning of sentences.",
+      "CO5: Design and deploy modern Transformer-based models for complex tasks like translation and summarization."
+    ]
+  },
+  
+  {
+    "course_code": "BIS714B",
+    "name": "Software Quality Assurance",
+    "description": "Explores the methodologies and tools used to ensure software quality throughout the development lifecycle. Covers quality models, testing strategies (Manual and Automated), process improvement frameworks, and the distinction between Quality Assurance and Quality Control.",
+    "prerequisites": ["Software Engineering (BCS501)", "Operating Systems (BCS303)"],
+    "credits": 3,
+    "tags": [
+      "sqa",
+      "software testing",
+      "quality metrics",
+      "six sigma",
+      "automation testing",
+      "cmmi",
+      "iso 9000"
+    ],
+    "topics": [
+      "Module-1: Fundamentals of Software Quality (Definition of Quality; SQA vs. Software Engineering; Quality Cost: Prevention, Appraisal, and Failure costs; SQA components and project lifecycle)",
+      "Module-2: SQA Components in Project Life Cycle (Contract review; Development and Quality plans; Review architectural components: Peer reviews, Walkthroughs, and Inspections)",
+      "Module-3: Software Testing Strategies (Black Box vs. White Box testing; Unit, Integration, System, and Acceptance testing; Regression testing; Automated testing tools and frameworks)",
+      "Module-4: Quality Management and Metrics (McCall’s Quality Model; Quality metrics: Product, Process, and Project metrics; Software configuration management; Documentation control)",
+      "Module-5: SQA Standards and Process Improvement (ISO 9001 and ISO 9000-3 standards; CMMI (Capability Maturity Model Integration) levels; Six Sigma in software quality; SQA for Agile and DevOps environments)"
+    ],
+    "course_outcomes": [
+      "CO1: Define software quality and identify the various costs associated with maintaining it.",
+      "CO2: Conduct effective peer reviews and inspections to identify defects early in the lifecycle.",
+      "CO3: Design and execute comprehensive test plans using both manual and automated strategies.",
+      "CO4: Apply quality models and metrics to quantitatively assess software products and processes.",
+      "CO5: Implement international quality standards and process improvement frameworks like CMMI and Six Sigma."
+    ]
+  },
+  
+  {
+    "course_code": "BAD714D",
+    "name": "Social Network Analysis",
+    "description": "Explores the structure and dynamics of social networks using graph theory and statistical models. Covers centrality measures, community detection, small-world phenomena, and the modeling of influence and information diffusion across large-scale networks.",
+    "prerequisites": ["Graph Theory", "Design and Analysis of Algorithms (BCS401)", "Machine Learning (BCS602)"],
+    "credits": 3,
+    "tags": [
+      "sna",
+      "graph theory",
+      "community detection",
+      "centrality",
+      "information diffusion",
+      "pagerank",
+      "network science"
+    ],
+    "topics": [
+      "Module-1: Introduction to Social Networks (Graphs and Networks; Types of networks: Weighted, Directed, and Multimodal; Adjacency Matrix and List representations; Network metrics: Density, Degree, and Sparsity)",
+      "Module-2: Centrality and Power (Who is important?; Degree Centrality; Closeness Centrality; Betweenness Centrality; Eigenvector Centrality and the PageRank algorithm used by Google)",
+      "Module-3: Network Structure and Dynamics (Small-world phenomenon and 'Six Degrees of Separation'; Random networks vs. Scale-free networks; The Power Law distribution and 'The Rich get Richer' effect; Hubs and Authorities)",
+      "Module-4: Community Detection and Clustering (Identifying groups and sub-structures; Triads and Transitivity; Clustering Coefficients; Modularity and Community discovery algorithms like Louvain or Girvan-Newman)",
+      "Module-5: Influence and Diffusion (Information cascades; Epidemic modeling on networks: SI, SIR, and SIS models; Opinion dynamics; Link prediction and Recommender systems in social platforms)"
+    ],
+    "course_outcomes": [
+      "CO1: Represent real-world social systems as mathematical graphs and compute basic network metrics.",
+      "CO2: Identify influential actors and 'power players' within a network using various centrality measures.",
+      "CO3: Analyze the structural properties of large-scale networks, including small-world and scale-free characteristics.",
+      "CO4: Implement community detection algorithms to uncover hidden sub-groups and clusters within a network.",
+      "CO5: Model and simulate the spread of information, opinions, or viruses through a network structure."
+    ]
+  },
+  
+  {
+    "course_code": "BIS714C",
+    "name": "Embedded Systems",
+    "description": "An in-depth study of the design, analysis, and implementation of embedded computing systems. Covers hardware-software co-design, ARM processor architecture, Real-Time Operating Systems (RTOS), memory management, and power-efficient system design.",
+    "prerequisites": ["Computer Organization and Architecture (BCS302)", "Microcontrollers (BCS402)", "Operating Systems (BCS303)"],
+    "credits": 3,
+    "tags": [
+      "embedded systems",
+      "arm",
+      "rtos",
+      "hardware-software co-design",
+      "low-level programming",
+      "firmware",
+      "embedded c"
+    ],
+    "topics": [
+      "Module-1: Introduction to Embedded Systems (Definition and classification; The embedded design lifecycle; Characteristics and quality attributes; Challenges in embedded system design)",
+      "Module-2: Embedded Hardware and Processors (ARM Cortex-M architecture; Instruction sets and registers; I/O interfacing: GPIO, I2C, SPI, UART; Memory-mapped I/O; Memory architectures: SRAM vs. DRAM)",
+      "Module-3: Real-Time Operating Systems (RTOS) (Concepts of RTOS: Tasks, Process, and Threads; Task scheduling: Round Robin vs. Priority-based; Inter-process communication: Semaphores, Mutexes, and Queues; Context switching)",
+      "Module-4: Hardware-Software Co-Design (Fundamental issues in hardware-software co-design; Computational models in embedded design: Data Flow Graphs (DFG) and State Machine models; Design space exploration)",
+      "Module-5: Embedded System Development and Security (Embedded C/C++ programming; Debugging techniques: JTAG, In-Circuit Emulators; Power management: Sleep modes and DVFS; Security in embedded systems: Root of Trust and Secure Boot)"
+    ],
+    "course_outcomes": [
+      "CO1: Analyze the specific constraints (power, memory, time) that define an embedded system.",
+      "CO2: Interface various peripherals and sensors with ARM-based microcontrollers using standard communication protocols.",
+      "CO3: Design and implement multi-tasking applications using a Real-Time Operating System (RTOS).",
+      "CO4: Utilize computational models to optimize the hardware-software trade-offs in a system design.",
+      "CO5: Develop, debug, and secure embedded firmware for real-world industrial and consumer applications."
+    ]
+  },
+  
+  {
+    "course_code": "BME755A",
+    "name": "Introduction to Non-Traditional Machining",
+    "description": "An overview of advanced manufacturing processes that use unconventional energy sources. Covers Mechanical, Electrical, Chemical, and Thermal machining methods, highlighting their mechanisms, equipment, and industrial applications.",
+    "prerequisites": ["Manufacturing Process (BME304/Equivalent)", "Physics"],
+    "credits": 3,
+    "tags": [
+      "machining",
+      "manufacturing",
+      "edm",
+      "laser machining",
+      "ultrasonic",
+      "advanced manufacturing",
+      "abrasive jet"
+    ],
+    "topics": [
+      "Module-1: Introduction to NTM (Limitations of conventional machining; Classification of NTM processes based on energy source: Mechanical, Chemical, Electrochemical, and Thermal)",
+      "Module-2: Mechanical Process NTM (Ultrasonic Machining (USM): Mechanism, equipment, and variables; Abrasive Jet Machining (AJM): Process parameters and nozzle design; Water Jet Machining (WJM))",
+      "Module-3: Electrochemical and Chemical Machining (Electrochemical Machining (ECM): Study of electrolysis, process parameters, and tooling; Chemical Machining (CHM): Etchants and maskants used in chemical milling)",
+      "Module-4: Thermal Energy NTM - Part 1 (Electric Discharge Machining (EDM): Mechanism of metal removal, dielectric fluids, and spark generation; Wire-EDM (WEDM): Working principle and applications)",
+      "Module-5: Thermal Energy NTM - Part 2 (Laser Beam Machining (LBM): Types of lasers and thermal mechanisms; Plasma Arc Machining (PAM); Electron Beam Machining (EBM): Working in a vacuum environment)"
+    ],
+    "course_outcomes": [
+      "CO1: Compare conventional and non-traditional machining processes based on material properties and precision requirements.",
+      "CO2: Explain the material removal mechanisms in mechanical NTM processes like USM and AJM.",
+      "CO3: Analyze the parameters of Electrochemical and Chemical machining for high-precision components.",
+      "CO4: Evaluate the performance and applications of spark-based machining (EDM) in tool and die making.",
+      "CO5: Describe the working principles and safety considerations for high-energy beam machining (Laser, Electron, and Plasma)."
+    ]
+  }
+]
+

@@ -1,0 +1,77 @@
+{
+  "data_scientist": {
+    "required_skills": [
+      "python",
+      "statistics",
+      "machine learning",
+      "data analysis",
+      "data visualization",
+      "algorithms"
+    ]
+  },
+  "software_engineer": {
+    "required_skills": [
+      "programming",
+      "data structures",
+      "algorithms",
+      "system design",
+      "oop",
+      "problem solving"
+    ]
+  },
+  "web_developer": {
+    "required_skills": [
+      "html",
+      "css",
+      "javascript",
+      "frontend",
+      "backend",
+      "web development"
+    ]
+  },
+  "backend_developer": {
+    "required_skills": [
+      "databases",
+      "api development",
+      "server-side programming",
+      "system design",
+      "backend"
+    ]
+  },
+  "ai_engineer": {
+    "required_skills": [
+      "machine learning",
+      "deep learning",
+      "python",
+      "statistics",
+      "algorithms"
+    ]
+  },
+  "cybersecurity_specialist": {
+    "required_skills": [
+      "network security",
+      "cryptography",
+      "security",
+      "ethical hacking",
+      "cybersecurity"
+    ]
+  },
+  "embedded_systems_engineer": {
+    "required_skills": [
+      "microcontrollers",
+      "embedded systems",
+      "hardware",
+      "low level programming",
+      "electronics"
+    ]
+  },
+  "devops_engineer": {
+    "required_skills": [
+      "linux",
+      "networking",
+      "cloud",
+      "automation",
+      "version control"
+    ]
+  }
+}
