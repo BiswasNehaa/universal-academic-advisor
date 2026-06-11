@@ -34,6 +34,38 @@ See [how to add your college's data](Data/DATA_FORMAT.md).
 | Groq + LLaMA 3.3 70B | AI reasoning |
 | Streamlit | Web UI |
 
+## How it works
+
+```
+User Input
+│
+├── Career Goal (e.g. "I want to be an ML Engineer")
+├── Completed Courses (e.g. CS101, CS201)
+└── Credit Limit (e.g. 15 credits)
+│
+▼
+RAG Pipeline
+│
+├── courses.json → FAISS Vector Database
+│   └── Embeds all course topics and outcomes
+│
+├── career.json → Career Requirements Lookup
+│   └── Finds required skills for your goal
+│
+▼
+LLaMA 3.3 70B (via Groq)
+│
+└── Matches your completed courses + career goal
+    └── Recommends exactly what to study next
+│
+▼
+Output
+│
+├── Recommended courses for next semester
+├── Why each course is recommended
+└── Full roadmap to your career goal
+```
+
 ---
 
 ## How to run it
