@@ -1,0 +1,97 @@
+[
+  {
+    "course_code": "PCC-CS301",
+    "name": "Data Structures and Algorithms",
+    "description": "Core concepts of data structures including arrays, linked lists, stacks, queues, trees, and graphs with analysis of algorithms.",
+    "semester": 3,
+    "credits": 4,
+    "topics": [
+      "Arrays, Linked Lists, and Matrices",
+      "Stacks, Queues, and Deques",
+      "Trees, AVL Trees, and B-Trees",
+      "Graphs, Traversal, and Shortest Path",
+      "Sorting, Hashing, and Searching"
+    ],
+    "outcomes": [
+      "Implement fundamental data structures efficiently using C++",
+      "Analyze time and space complexity of computational algorithms",
+      "Solve algorithmic problems using optimal memory layouts"
+    ],
+    "prerequisites": []
+  },
+  {
+    "course_code": "PCC-CS401",
+    "name": "Discrete Mathematics",
+    "description": "Mathematical structures that are fundamentally discrete rather than continuous, covering logic, sets, and graph theory.",
+    "semester": 4,
+    "credits": 4,
+    "topics": [
+      "Set Theory, Relations, and Functions",
+      "Propositional and Predicate Logic",
+      "Combinatorics and Algebraic Structures",
+      "Graph Theory and Trees"
+    ],
+    "outcomes": [
+      "Apply mathematical logic to structural computer science issues",
+      "Utilize formal proofs for validating algorithmic properties"
+    ],
+    "prerequisites": []
+  },
+  {
+    "course_code": "PCC-CS402",
+    "name": "Computer Organization and Architecture",
+    "description": "Internal operations of digital computers, instruction set architectures, memory hierarchies, and pipelining.",
+    "semester": 4,
+    "credits": 3,
+    "topics": [
+      "Von Neumann Architecture and Bus Structures",
+      "ALU Design and Arithmetic Operations",
+      "Control Unit Design and Microprogramming",
+      "Memory Hierarchy and Cache Memory",
+      "Pipelining and Parallelism"
+    ],
+    "outcomes": [
+      "Understand low-level execution pipelines and hardware limits",
+      "Optimize software designs based on memory layouts and cache hits"
+    ],
+    "prerequisites": []
+  },
+  {
+    "course_code": "PCC-CS404",
+    "name": "Design and Analysis of Algorithms",
+    "description": "Advanced algorithmic design paradigms including greedy algorithms, dynamic programming, and complexity theories.",
+    "semester": 4,
+    "credits": 3,
+    "topics": [
+      "Divide and Conquer Techniques",
+      "Greedy Methodologies",
+      "Dynamic Programming Paradigm",
+      "Backtracking and Branch & Bound",
+      "NP-Hard and NP-Complete Problems"
+    ],
+    "outcomes": [
+      "Evaluate complex computing dilemmas and apply proper design strategies",
+      "Prove algorithm optimality and handle optimization problems efficiently"
+    ],
+    "prerequisites": ["PCC-CS301"]
+  },
+  {
+    "course_code": "PEC-CS501A",
+    "name": "Mobile Application Development",
+    "description": "Comprehensive guide to building native Android applications using modern platform SDK layout architectures and tools.",
+    "semester": 5,
+    "credits": 3,
+    "topics": [
+      "Android Studio Environment and SDK Layout",
+      "UI/UX Design with XML and Modern Layout Tools",
+      "State Management and Threading Architecture",
+      "Background Execution Logic and Services",
+      "Local SQLite/Room Databases and External API Consumption"
+    ],
+    "outcomes": [
+      "Build native mobile applications featuring background execution architecture",
+      "Integrate local persistent databases with external network API calls"
+    ],
+    "prerequisites": ["PCC-CS301"]
+  }
+]

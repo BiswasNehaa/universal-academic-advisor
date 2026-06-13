@@ -73,5 +73,14 @@
       "automation",
       "version control"
     ]
+  },
+  "android_engineer": {
+    "required_skills": [
+      "android",
+      "c++",
+      "mobile development",
+      "algorithms",
+      "rag"
+    ]
   }
 }
